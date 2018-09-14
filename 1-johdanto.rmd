@@ -1,7 +1,6 @@
 # Johdanto
 
-Tämä on täydennetty versio Niko Partasen pro gradu -tutkielmasta.
-[@partanen2013b].
+Tämä on täydennetty ja ajantasaistettu versio Niko Partasen pro gradu -tutkielmasta. [@partanen2013b].
 
 ## Alkusanat
 
@@ -17,19 +16,19 @@ tarvetta.
 Työ pohjautuu kahdesta paikallisyhteisöstä kerättyyn
 haastatteluaineistoon ja osallistuvaan havainnointiin. Aineisto on
 kerätty Helsingin ja Syktyvkarin yliopistojen opiskelijoiden
-kenttätyöharjoittelun yhteydessä. Niin laajaan aiheeseen kuin
-kielenvaihto voi soveltaa hyvin erilaisia tutkimusmetodeja. Olen itse
+kenttätyöharjoittelun yhteydessä. Kielenvaihdon kaltaiseen laajaan
+aiheeseen voi soveltaa hyvin erilaisia tutkimusmetodeja. Olen itse
 valinnut työkaluikseni ikäkohorttien vertailun sekä domeenien ja
 kielellisten verkostojen analysoinnin. Nämä metodit hyödyntävät
 aineistossa usein toistuvia tietoja ja antavat ajallisen
 läpileikkauksen kylän kielenkäytön kehittymiseen ja
-muutokseen. Tutkimus koostuu siis kahdesta tapaustutkimuksesta. Joshua
+muutokseen, muodostaen kaksi erillistä tapaustutkimusta. Joshua
 Fishman on jo varhain korostanut, että vaikkei kielenvaihdon ja kielen
 säilymisen tutkimisen tarvitse rajoittua tapaustutkimusten vertailuun,
-on tämä lähtökohtana silti alalle hyvin keskeinen. Hän katsoo olevan
+on tämä lähtökohtana silti alalle hyvin keskeinen. Hän luokittelee
 erilaisia vertailevien tapaustutkimusten tyyppejä. Oma tutkimukseni
 vastaa tyyppiä, jossa eri kieliä verrataan samantapaisissa
-ympäristöissä. [@fishman1971a, s. 327–330]. Luonnollisesti tavoitteena on
+ympäristöissä. [@fishman1971a, s. 327–330]. Tavoitteena on
 jatkaa työtä tulevaisuudessa muihin yhteisöihin laajentamalla. Fishman
 on myöhemminkin korostanut, että yksinkertaisesti selittävä teoria
 kielenvaihdosta voi perustua ainoastaan riittävän suureen määrään
@@ -40,20 +39,19 @@ yhteydessä omat motivaationi aiheen käsittelylle ja tutkijan
 positioni, sillä nämä ovat olennaisia arvioitaessa tätä tutkimusta
 uralilaisten kielten kielisosiologian kontekstissa. Päätän
 johdantoluvun esittelemällä lyhyesti Karjalan ja Komin historiallista
-taustaa. Tämä on välttämätöntä, jotta tutkimuksen tuloksia pystyy
-suhteuttamaan kielenvaihdon mahdolliseen tilaan muualla Karjalassa ja
-Komissa.
+taustaa, jotta tutkimuksen tuloksia pystyisi suhteuttamaan kielenvaihdon
+prosesseihin muualla Karjalassa ja Komissa.
 
 Aloitan aineistoni käsittelyn esittelemällä tarkat
 tutkimuskohteeni. Tämä osa pohjautuu jo monin tavoin itse
 haastatteluaineistoon, sillä tällaisten paikallisyhteisöjen historiaa
 ei välttämättä ole kirjoitettu sellaiseen muotoon, joka olisi suoraan
 tutkijan käytettävissä. Käytännössä kylän asukkaiden muistitieto voi
-olla paras lähde lähimenneisyyttä tutkittaessa. Käyn läpi
-yksityiskohtaisesti aineiston keruumetodit ja tavan, jolla se on
-arkistoitu. Tällaiseen laadulliseen tutkimukseen liittyvät
+olla paras lähde lähimenneisyyttä tutkittaessa. Käyn läpi aineiston 
+keruumetodit ja tavan, jolla se tullaan arkistoimaan. 
+Tällaiseen laadulliseen tutkimukseen liittyvät
 olennaisesti eettiset kysymykset, joten selvennän aineistoluvussa myös
-oman kantani tähän. Eettisiin kysymyksiin ja suostumukseen on
+tässä suhteessa tehdyt ratkaisut. Eettisiin kysymyksiin ja suostumukseen on
 kiinnitetty hyvin paljoa huomiota koko tutkimusprosessin
 ajan. Informanttien anonymiteetin säilyminen onkin tutkimuksen
 keskeisiä huomionaiheita. Näin ollen kaikkia työssä esitettyjä
@@ -61,11 +59,11 @@ vuosilukuja ja syntymäaikoja on karkeasti pyöristetty. Luonnollisesti
 tämä on pyritty tekemään sellaisella tavalla, joka ei ole
 merkityksellinen tutkimuksen tuloksille. Päätän aineistoluvun
 esittelemällä tarkemmin informanttejani. Tämä konkretisoi aineiston
-määrää ja laatua, mutta tuon samalla esiin aineiston ongelmia ja
-puutteita. Lähtökohtana on, ettei aineisto voi olla koskaan
-täydellinen. Tästä huolimatta tällainen tutkimusaineisto voi olla
-monin erilaisin tavoin hyvä tai huono, ja haluan nostaa esiin oman
-aineistoni erilaisia puolia.
+määrää ja laatua, tuoden samalla esiin aineiston ongelmia ja
+puutteita. Lähdekriittisyys on tärkeää, eikä varsinkaan tällainen aineisto
+voi olla koskaan kaikenkattava tai täydellinen. Tästä huolimatta tällainen
+tutkimusaineisto voi olla monin erilaisin tavoin hyvä tai huono, ja haluan
+käsitellä omaa aineistoani mahdollisimman monipuolisin tavoin.
 
 Tämän jälkeen käsittelen tutkimusmetodeitani. Aloitan tämän
 katsauksella vanhempaan tutkimuskirjallisuuteen. Tämä selventää niitä
