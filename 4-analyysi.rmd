@@ -1,0 +1,1513 @@
+# Analyysi
+
+## Domeenien analyysi
+
+### Domeeni: Kielitaidon kehittyminen
+
+Aloitan tutkimuksen analyysin tarkastelemalla eri ikäryhmien
+kielenoppimisen domeeneja. Olen havainnut muita aineistoja
+tutkiessani, että eri kyläyhteisöjen välillä voi olla suuria eroja
+venäjän yleistymisen ajankohdassa. Tämän variaation pystyy osittain
+sulkemaan pois käsittelemällä erikseen eri yhteisöissä syntyneitä
+informantteja [@partanen2013b, 20–22]. Nyt tässä mielessä
+merkityksellisiä yhteisöjä ovat Tuuksa ja Koigort, eli en tässä osassa
+analyysia ota heti huomioon pienemmissä naapurikylissä
+syntyneitä. Otan heidän vastauksensa erikseen huomioon, sillä
+seuraamalla tutkittavaan yhteisöön muuttaneiden kielellistä
+adaptaatiota on mahdollista tehdä epäsuoria arvioita eri
+vuosikymmenillä vallinneista kielioloista. Tämän tarkastelun
+tavoitteena on osoittaa, milloin yhteisö on muuttunut
+kaksikieliseksi. Pyrin ensimmäiseksi vastaamaan kysymykseen
+kielenoppimisen domeeneista eri aikoina.
+
+Käytännössä informantit osasivat Tuuksessa karjalaa, venäjää tai
+suomea ja Koigortissa komia ja venäjää. Yksittäiset informantit ovat
+opiskelleet koulussa englantia tai saksaa, mutta yhtä poikkeusta
+lukuunottamatta he eivät ole käyttäneet näitä kieliä aktiivisesti
+kouluajan jälkeen. Yksi tuuksalainen 50-luvulla syntynyt informantti
+on käyttänyt englantia melko säännöllisesti työpaikkansa
+johtotehtävissä. Ukrainalaisten tai valkovenäläisten informanttien
+äidinkieli on ukraina tai valkovenäjä, mutta he ovat sosialisoituneet
+muuton kohteena olleisiin paikallisyhteisöihin nimenomaan venäjän
+puhujina. Ei ole merkkejä siitä, että lapsille olisi näissä
+yhteisöissä puhuttu muita slaavilaisia kieliä kuin venäjää.
+
+Koska lähes kaikki Tuuksessa syntyneet informantit ovat oppineet
+karjalaa kotona, ei ole erityisen mielenkiintoista esitellä heidän
+kielirepertuaariaan yksinkertaisessa taulukossa äidinkielen
+mukaan. Seuraavaa tilastoa on yksinkertaistettu siten, että joka
+vuosikymmeneltä on listattu tyypillisimmät tässä ikäryhmässä mainitut
+kielenoppimisen domeenit. Yksittäisten informanttien muodostamat
+poikkeukset eivät tässä esittelyssä näy, mutta taulukosta tulee esiin
+yleinen tendenssi.
+
+Taulukko 4: Kielenoppimisen domeenit, Tuuksa
+
+Tämän perusteella Tuuksessa venäjä on alkanut muuttua kotikieleksi
+1960- ja 1970-luvuilla. Yksittäiset 1970-luvulla syntyneet informantit
+ovat oppineet venäjää vasta päiväkotiin mennessään. 1980- ja
+1990-luvuilla venäjää on opittu jo kotona ja nuorimman informantin
+kohdalla nähdään karjalan osittainen siirtyminen koulussa opituksi
+kieleksi. Karjalaa opetetaan koulussa, mutta muun muassa pienen
+tuntimäärän takia tämän ei voi ajatella johtavan funktionaalisen
+kielitaidon kehittymiseen. Tämä ei kuitenkaan tarkoita, ettei koululla
+olisi mitään roolia. Tarkastelen seuraavaksi vastaavaa tilastoa
+Koigortista.
+
+Taulukko 5: Kielenoppimisen domeenit, Koigort
+
+Tämän perusteella Koigortissakin olisi viitteitä samanlaisesta
+siirtymästä venäjän oppimisdomeenissa kuin Tuuksessakin. Tämän
+ajoittaminen ei ole mahdollista, sillä tässä otoksessa ei ole yhtään
+1970-luvulla syntynyttä laajemmin haastateltua informanttia. On yksi
+hyvin suppeasti haastateltu 1970-luvun alussa syntynyt informantti,
+joka on oppinut komia kotona, mutta aikuisiällä vaihtanut
+pääasiallisen käyttökielensä venäjään. Hänen lapsensa ymmärtävät
+komia, mutta eivät puhu sitä. Haastattelu tehtiin kaupassa hänen
+työpaikallaan, ja valitettavasti se keskeytyi. Tämän aineiston
+perusteella Koigortissa kotona kehittynyt kaksikielisyys olisi
+yleistynyt vasta 1980-luvulle tultaessa. Karkeana hypoteesina voi
+tässä vaiheessa esittää, että Tuuksessa lapsuudessa kehittynyt
+kaksikielisyys on yleistynyt aikaisemmin kuin Koigortissa.
+
+Mielenkiintoinen ero yhteisöjen välillä on, että vanhimmatkin
+informantit raportoivat Koigortissa oppineensa venäjää
+koulussa. Karjalassa tähän aikaan yhdistyi usein muun muassa
+evakkoaika, eikä koulussa vielä välttämättä opittu niin paljoa
+venäjää. Opetuskieli oli usein suomi, kuten luvussa X. Tutkimuksen
+tausta kuvasin. Koigortissa komi on ollut samoihin aikoihin
+koulukieli, mutta tämän aineiston pohjalta ei oikein voi rekonstruoida
+eri koulujen kielipolitiikka tietyillä vuosikymmenillä. Palaan tähän
+käsitellessäni tarkemmin domeenia koulu, sillä kielipolitiikan
+yleislinjat ovat toki tiedossa.
+
+Käsittelen vielä muualla kuin Tuuksessa tai Koigortissa syntyneiden
+informanttien kielenoppimista, ennen kuin siirryn varsinaisten
+domeenien analysointiin. Näiden informanttien kielitaidon kehittyminen
+ei heijastele lasten kielen omaksumista Koigortissa tai Tuuksessa
+minään aikana, mutta heidän kielelliset valintansa voivat olla
+erittäin tärkeitä käsiteltäessä näiden yhteisöjen kielenkäytön
+muutosta. Moni on viettänyt suurimman osan aikuisikäänsä nyt
+tutkituissa yhteisöissä, joten heidät voi ehdottomasti nähdä yhteisöön
+kuuluvina henkilöinä. Kiinnitän huomiota siihen, poikkeavatko heidän
+vastauksensa paikallisista informanteista. Olen järjestänyt
+informantit heidän muuttovuotensa perusteella, sillä se on tälle
+tarkastelulle keskeisin muuttuja. Toisaalta erottelen kyläyhteisöön
+pienenä lapsena ja aikuisiällä muuttaneet, sillä heidän
+lähtökohdissaan oppia kieltä voi olettaa olevan eroja.
+
+Tällaisia muualta tulleita informantteja on aineistossa paljon,
+välillä lähes puolet kaikista haastatelluista. Melko
+sattumanvaraisesti valitun otoksen kohdalla tämä kertoo kylien väestön
+muuttuneen paljon tarkasteltuna aikana. Tämä on otettava huomioon
+kylänosia tai naapurustoja tutkittaessa, sillä tällainen voimakas
+muuttovirtaus luo tilanteen, jossa asukkailla on hyvin eri aikoina
+muodostuneita ja luonteeltaan erilaisia suhteita toisiinsa ja muihin
+alueisiin Karjalassa ja Venäjällä. Ihmisiä on myös jatkuvasti
+muuttanut kylistä pois, mikä tarkoittaa, ettei yksilöille tärkein
+viiteryhmä välttämättä ole nyt tutkittavaksi valittu seutu. On myös
+kysyttävä, missä määrin voidaan puhua tietyn yhteisön kielenvaihdosta,
+jos ei voida puhua samoista henkilöistä ja perheistä.
+
+Taulukko 6: Tuukseen muuttaneet informantit.
+
+Tuukseen on siis muuttanut ihmisiä pääasiassa muilta livvin
+puhuma-alueilta, mutta joukossa on jonkin verran vielä kauempaa
+muuttaneita. Käytännössä he kaikki puhuvat äidinkielenään muuta kieltä
+kuin karjalaa, mutta ovat oppineet ymmärtämään karjalaa. Olen
+merkinnyt passiivisen kielitaidon lyhenteellä pass. Näille
+informanteille on kuitenkin yhteistä se, etteivät he itse käytä
+karjalaa aktiivisesti. Mainitsen vielä, että monien informanttien
+puolisoiden joukossa on muualta muuttaneita, eikä heistä nouseva kuva
+eroa nyt tarkastellusta otoksesta. Kielten oppimisdomeenien puolesta
+muut karjalaiset vastaavat pitkälti Tuuksen livviläisiä. Muuttovuodet
+1970- ja 1980-lukujen alussa liittyvät perspektiivittömien kylien
+lakkauttamiseen sekä uusien asuinkerrostalojen rakentamiseen. Tärkein
+tästä aineistosta tehtävä huomio on, että kaikki paitsi
+karjalankieliset ovat integroituneet yhteisöön venäjän puhujina.
+
+Tätä huomiota tekee merkityksellisemmäksi tulos siitä, yksi suuri
+kylään muuttaneiden ryhmä muodostuu muista
+itämerensuomalaisista. Aineistossa on havaintoja ja haastatteluja
+karjalaa hyvin ymmärtävistä vepsäläisistä ja inkerinsuomalaisista,
+jotka kaikki käyttävät pelkkää venäjää, vaikka jokainen puoliso onkin
+karjalankielinen. Itämerensuomalaisten muuttaessa lähisukukielisiin
+yhteisöihin on kieliraja monin tavoin matala. Kaikki antoivat
+samanlaisen kuvauksen siitä, kuinka tuohon aikaan ei sopinut tai ollut
+tapana puhua karjalaa. Puolison ja lasten kanssa on käytetty
+venäjää. Haastattelemani inkerinsuomalainen nainen kuvasi tilannetta
+seuraavalla tavalla, kun kysyin, ketä voisi pitää syyllisenä
+kielenvaihtoon.
+
+Näyte 3. Informantti 281, nauha 63, [00:42:35]. 17.05.2012.
+
+Informantti viittaa tässä suoraan käskyyn olla puhumatta muita
+kieliä. Käsittelen näitä käskyjä ja kieltoja tarkemmin domeenin koulu
+yhteydessä, mutta tämä pohjustaa aihetta hyvin. Tämä kertomus toistaa
+Neuvostoliiton kansallisuuspolitiikan paradoksaalisen luonteen, kuinka
+toisaalta ollaan juuri Neuvostoliiton kansalaisia, ei karjalaisia eikä
+edes venäläisiä, mutta yhteinen kieli on silti vain venäjä. Riveillä
+13 ja 14 informantti reflektoi, kuinka kielen säilyttämisestä ei
+oikeasti kukaan olisi rankaissut. Silti kieli vaihtui, eikä ainoastaan
+hänen kohdallaan, vaan lähes kaikissa muissakin perheissä. Tässä
+mielessä kylään muuttaneilla itämerensuomalaisilla ei ole oleellista
+eroa venäläisiin tai valkovenäläisiin informantteihin. He ovat
+venäläistyneet kieleltään, mutta silti oppineet ymmärtämään karjalaa
+jonkin verran. Tuuksessa asuu yksittäisiä lyydiläisiä, jotka ovat
+tähän mennessä saamieni tietojen perusteella tapauskohtaisesti
+alkaneet puhua karjalaa tai pitäytyneet pelkässä venäjässä. Kaikki
+nämä kielet ovat niin lähellä toisiaan, että passiivinen kielitaidon
+olettaisi kehittyvän hyvin nopeasti. Olisi oletettavissa, että
+lähisukukielten puhujat voisivat melko helposti siirtyä kielestä
+toiseen myös aktiivisessa käytössä. Se, ettei näin ole enemmistössä
+tapauksista käynyt, voi viitata erilaisten ideologisten ja
+asenteellisten seikkojen vaikuttaneen asiaan. Näitä kuvaa yllä oleva
+ote haastattelusta, jossa voi tulkita käskyn vaikuttaneen
+käytökseen. Toisaalta on otettava huomioon, että nämä informantit ovat
+muuttaneet yhteisöön aikana, jolloin on ollut mahdollista integroitua
+siihen venäjänkielisenä. Karjalaa on silti käytetty, sillä muutoin
+heidän passiivisen kielitaitonsa muodostumista ei voi selittää. Näin
+ollen tämä paljastaisi heidän roolinsa tässä yhteisössä karjalan
+kielen kuulijana.
+
+Koigortin aineistossa kylään muuttaneita henkilöitä on ainoastaan
+seitsemän. Kokonaismäärän suhteen heitä on vähemmän kuin Tuuksessa,
+mikä voi liittyä Koigortin syrjäisempään sijaintiin. Aineistossa ei
+myöskään ole informantteja, jotka olisivat syntyneet Komin tasavallan
+ulkopuolella. He ovat pääasiassa erilaisissa maantieteellisesti
+toisiaan lähellä olleissa paikallisyhteisöissä syntyneitä henkilöitä,
+joten heidän kauttaan voi saada tietoa näistä kylistä. Varsinaisten
+venäjänkielisten pieni määrä liittyy käytettyihin metodeihin ja
+informanttien valintaan eikä sinällään heijasta yhteisön
+väestörakennetta.
+
+Taulukko 7. Koigortiin muuttaneet informantit
+
+Kielenvaihdon eteneminen ei varsinaisesti näy tässä osassa aineistoa,
+sillä vanhimpienkin informanttien ensimmäinen kieli on
+komi. Koigortissa syntyneiden tilanne näytti melko samalta aiemmin
+esittelemäni pienen otoksen perusteella. Erikoisemmalta näyttävät
+kaksi 1950-luvulla Koigortiin muuttanutta informanttia. He ovat
+syntyneet metsätyötaajamissa Koigortin alueella, ja etnisestä
+komilaisuudestaan huolimatta venäjä on ollut heidän ensimmäinen
+kielensä. Komilaiset vanhemmat ovat puhuneet heille venäjää, sillä
+tämä on ollut näiden monietnisten taajamien pääasiallinen
+käyttökieli. Tästä on aineistossa runsaasti kuvauksia eri puolilta
+Komia, mutta Karjalan aineistoissa tällaiseen ei törmää kovinkaan
+usein. Pikemminkin löytyy kuvauksia esimerkiksi karjalan kielen
+metsätyömailla oppineista valkovenäläisistä, joiden kielen-
+oppimisaikana itse taajamat ovat jo alkaneet vaihtaa kieltään
+(Partanen 2013: 21). Pikemminkin näiden komilaisten informanttien
+henkilötarinoista ilmenee heidän oppineen komia Koigortiin muuton
+jälkeen. Esittäisin tältä pohjalta, että metsätyötaajamat voi yhdistää
+venäjän kielen yleistymiseen erityisellä tavalla juuri Komissa. Tähän
+viittasi aiemmin esittelemäni tutkimuskirjallisuus, jonka perusteella
+juuri metsätyötaajamat ovat olleet Komissa paikkoja, joissa
+paikalliset kyläyhteisöt ja vieras Komiin tuotu väestö olisivat olleet
+tekemisissä keskenään.
+
+1940-luvun alussa syntynyt informantti on muuttanut Koigortiin melko
+myöhään, yli 15-vuotiaana. Näin ollen hän ei välttämättä olisi enää
+kaikkein aktiivisimmassa kielenoppisen iässä. Hän on kuitenkin oppinut
+komia ja puhunut sitä lapsilleenkin, mikä vertautuu mielestäni hyvin
+Tuukseen 1950-luvulla muuttaneen venäläisen naisen tapaukseen. Hänestä
+ei ollut tullut karjalan aktiivikäyttäjää, mutta samanaikaisesti
+Koigortissa tällainen assimilaatio oli vielä mahdollinen. Kielenvaihto
+oli silti selvästi jo alkanut metsätyötaajamien laajentuessa kylien
+läheisyydessä. Ilmeisesti paikalliset kyläyhteisöt ovat kuitenkin
+ainakin aluksi pystyneet ikään kuin torjumaan kielenvaihdon ja
+palauttamaan nämä henkilöt kominkielisen yhteisön piiriin. Heidän
+sukupuitaan seuraamalla näyttää siltä, ettei heidän roolinsa
+kielenvaihdon etenemiselle ole ollut kovinkaan erilainen varsinaisiin
+komilaisissa yhteisöissä kasvaneisiin. Näin ollen sekä Tuuksessa että
+Koigortissa henkilön äidinkieltä ja taustaa tärkeämpi muuttuja voisi
+olla heidän muuttovuotensa ja yhteisössä tuolloin vallinneet
+etnolingvistisen vitaliteetin suhde.
+
+### Domeeni: Perhe
+
+Informanttien vastaukset on jaoteltu sivulla X kuvaamani mallin
+mukaan. Taulukko kuvaa informantin eri henkilöiden kanssa käyttämää
+kieltä. Taulukko on järjestetty informanttien iän perusteella. Siinä
+ei ole eroteltu, ketkä informanteista ovat sukua keskenään. Teen tämän
+vasta eri perheiden sosiaalisia verkostoja tarkastellessani. Eri
+sukupolvet on nyt jaoteltu horisontaalisesti, mutta ikäluokat tai
+sukupolvet tulevat näkyviin myös vertikaalisesti, siten että eri
+sukupolvien välille voi laskea noin 25 vuoden välit. Tämä ajatus
+perustuu tietoon Venäjän koko 1900-luvun ajan hyvin tasaisena
+pysyneestä lastensaannin iästä [@rotkirchEtAl2012a]. Täten hieman
+yksinkertaistaen esimerkiksi 30-luvulla syntyneiden lapset ovat
+syntyneet 1950-luvulla ja heidän lapsensa 1970-luvulla. Vertaan
+informanttien vastauksia heidän oman ikäryhmänsä vastauksiin, jotta
+voin testata, vastaako heidän oma kielitaitonsa tyypillistä heidän
+ikäluokkansa mallia. Tämän avulla on mahdollista verrata keskenään
+tietyn ikäryhmän kanssa kuvattua kielenkäyttöä siihen, mitä tähän
+kohorttiin kuuluneet henkilöt ovat itse vastanneet.
+
+#### Tuuksa
+
+Esittelen ensiksi Tuuksesta tehdyn taulukon:
+
+Taulukko 8. Tuuksen domeeni perhe
+
+Aineiston perusteella jo 30-luvulla syntyneet ovat puhuneet omien
+lastensa kanssa usein sekä venäjää että karjalaa. 1930-luvun lopussa
+syntyneiden parissa alkaa yleistyä pääasiallinen venäjän käyttö.
+Arvioin, että tämän ikäryhmän lasten on täytynyt syntyä 1950- ja
+1960-luvuilla. 1960-luvulla syntyneiden parissa venäjä muuttuu
+kieleksi, jota on puhuttu sisarusten kesken. Aineistosta nousee
+selvästi esiin, että jo 1940-luvun lopulla syntyneet ovat alkaneet
+puhua puolisoidensa kanssa venäjää. Ajallisesti tämä venäjää
+sisarustensa ja puolisoidensa kanssa käyttänyt kohortti vastaa melko
+hyvin 1930-luvulla syntyneiden lapsia.
+
+Sellaista kohorttia ei ole, joka olisi puhunut lapsenlapsilleen
+ainoastaan karjalaa. Tapauksista 20/28 viittaa siihen, että
+lapsenlapset puhuisivat vähemmän karjalaa kuin heidän vanhempansa.  On
+yleistä, että lapsenlapset puhuvat hieman karjalaa tai ymmärtävät
+sitä. Taulukossa on tapauksia, joissa lapsenlapset näyttävät osaavan
+hieman enemmän karjalaa kuin heidän vanhempansa. Oletan tämän johtuvan
+siitä, että haastattelussa on erikseen kiinnitetty huomiota
+lastenlasten kielitaitoon sen perusteella, että tätä on ajateltu
+erityisen tärkeäksi kielenvaihdon etenemisen laajuutta
+selvitettäessä. Toisaalta lastenlasten karjalantunnit koulussa luovat
+vaikutelmaa, että he osaavat karjalaa.
+
+Kaikkein nuorimpienkin informanttien isovanhemmat ovat puhuneet
+karjalaa. Esimerkiksi nuorimman 1990-luvun puolessavälissä syntyneen
+informantin isoäiti on syntynyt 1930-luvun lopulla. Hänen aktiivinen
+käyttökielensä on venäjä, mutta hän osaa myös karjalaa. Haastattelussa
+hän kuitenkin kertoo yksityiskohtaisesti, ettei käytä karjalaa kodin
+ulkopuolella. Sisarusten kanssa on aina käytetty venäjää, mutta
+isoäiti ja vanhemmat puhuvat karjalaa keskenään. Vastaavia kuvauksia
+on Tuuksesta lukuisia, mikä heijastelee elossa olevan karjalaa
+kaikkein aktiivisimmin käyttävän sukupolven vaikutusta. Tämän
+aineiston perusteella voi sanoa, että Tuuksen kielenvaihdon kohdalla
+emme ole vielä tilanteessa, jossa kielen transmissio sukupolvien
+välillä olisi täysin katkennut. On toinen kysymys, kuinka laajalti
+näin on tapahtunut ja millaiset olosuhteet perheissä on oltava, jotta
+kieli välittyisi lapsille nykyään. Pyrin vastaamaan tähän myöhemmin
+tutkimuksessani.
+
+Yhteisöön kauempaa muuttaneet eivät oleellisesti eroa oman ikäryhmänsä
+paikallisten informanttien mallista, jolla kieli on siirtynyt
+seuraaville sukupolville. On tapauksia, joissa heidän lapsensa eivät
+ole oppineet karjalaa, mutta muuhun ikäkohorttiin suhteutettuna ero ei
+ole huomattava. Esimerkiksi 1950-luvulla Tuukseen muuttaneen
+venäläisen naisen lapset ovat oppineet karjalaa ja puhuvat sitä
+hyvin. Olen merkinnyt tämän taulukkoon vihreällä, sillä muista
+informanteista poiketen en kuvaa tässä heidän kielenkäyttöään
+informantin itsensä kanssa. Tuuksa vaikuttaa olleen vielä 1950-luvulla
+vahvasti karjalankielinen, eivätkä tuuksalaiset mitä ilmeisimmin ole
+tuolloin osanneet venäjää erityisen hyvin. Kyseinen venäläinen
+informantti antoi seuraavan kuvauksen:
+
+Näyte 4. Informantti 401, nauha: 344, [00:03:02], 4.6.2013
+
+Näin ollen 40-luvulla syntyneet olisivat eläneet ainakin
+varhaislapsuutensa ympäristössä, jossa yhteisön pääasiallinen
+käyttökieli oli karjala. Tämä täsmäisi sivulla 46 esittelemäni
+kielenoppimisen domeeneja esitelleen tilastoon kanssa, sillä tässä
+näkyi venäjän muuttuminen ennen kouluikää opituksi kieleksi juuri
+1950-luvulla. Nyt siteeraamani informantin lapset ovat syntyneet 1950-
+ja 1960-luvuilla. Heidän kuvailtu kielenkäyttönsä sopii melko hyvin
+Tuuksen kuvaan tuona aikana, sillä he ovat oppineet sekä karjalaa että
+venäjää. He ovat oppineet karjalaa isoäidiltään, mutta joukossa on
+myös aivan karjalaisia informantteja, jotka ovat oppineet karjalaa
+kotona isovanhemmiltaan 1960-luvun lopulla. Tässä paljastuu käyttämäni
+analyysin vahva puoli, sillä se perustuu kieleen, jota eri henkilöt
+ovat käyttäneet tietyn informantin kanssa. Malli kuvaa kielenvaihtoa
+pelkkää kielenoppimisen domeenia tai domeenia koti paremmin, mikä
+toisaalta yhdistyy Fishmanin ja Galin huomautukseen domeenin sisäisten
+roolien merkityksestä.
+
+#### Koigort
+
+Tarkastelen seuraavaksi vastaavaa taulukkoa, joka on tehty Koigortin
+aineistojen pohjalta.
+
+Taulukko 9. Koigortin domeeni perhe
+
+Taulukosta nouseva yleiskuva on erilainen heti siinä, että venäjää
+käyttäviä on vähemmän. Informanttien määrä on pienempi ja he ovat
+kaikki komeja. Selkeänä aineistosta näkyvänä erona on lasten
+myöhäisempi venäjänkielistyminen. Jos Tuuksessa jo 1930-luvulla
+syntyneet ovat puhuneet lastensa kanssa paljon venäjää, kulkee
+vastaava raja Koigortissa vasta 1960-luvulla
+syntyneissä. Informanttien pienen määrän takia on mahdoton tehdä
+pitkälle meneviä johtopäätöksiä, mutta tällaista tendenssiä vaikuttaa
+olevan.
+
+Yhteistä Tuuksen ja Koigortin aineistoille on, että venäjän käyttö
+puolisoiden kanssa on yleistynyt 1940- ja 1950-lukujen vaihteessa
+syntyneiden parissa. Kuten Tuuksessa, myös Komissa tämän on viitattava
+1960–1970 -luvuilla alkaneeseen muutokseen. Joka tapauksessa
+Koigortissa vasta 1980-luvulla syntyneiden informanttien enemmistö on
+vastannut käyttäneensä omien vanhempiensa kanssa sekä komia että
+venäjää. Tuuksessa tämä muutos on tapahtunut huomattavasti aiemmin,
+mutta samanlaisessa sporadisella ja molempia kieliä sekoittavalla
+mallilla. Lasten kanssa on käytetty satunnaisesti sekä venäjää että
+komia, ja 60-luvulla alkaa yleistyä, että lapset enää ymmärtävät
+komia. Tätä voi verrata lastenlasten sarakkeeseen, jossa venäjän
+puhuminen vaikuttaa hieman komin osaamista yleisemmältä. Oikeastaan
+Tuuksen sarake lapset muistuttaa rakenteeltaan eniten Koigortin
+saraketta lapsenlapset. Näin ollen kielenvaihdon voisi kuvata olevan
+Tuuksessa yhtä sukupolvea Koigortia pidemmällä. Toisaalta aineistossa
+on Koigortissa kasvaneita 1980- ja 1990-luvulla syntyneitä
+informantteja, jotka itse osaavat komia erittäin hyvin. Toisaalta
+nuoria komia puhuvia oli vaikea löytää, joten he saattavat edustaa
+poikkeuksellisen kauan kieltä säilyttäneitä perheitä. Ylipäätään
+tärkeänä erona voi pitää sitä, että Koigortissa on 1980- ja
+1990-luvuilla syntyneitä komia aktiivisesti käyttäviä.
+
+Koko otoksessa lasten kanssa käytetään usein komia tai komia ja
+venäjää sekaisin. Silti pääasiallinen käyttökieli on aivan nuorimpia
+informantteja lukuun ottamatta komi. Ainoastaan yhden 1960-luvun
+puolessavälissä syntyneen informantin lapset eivät puhu komia, mutta
+hekin ymmärtävät sitä. Informantin puoliso on venäjänkielinen, mutta
+taustaltaan osittain komi. Puoliso on syntynyt metsätyötaajamassa,
+mikä vaikuttaa selittävän hänen 1960-luvulle epätyypillistä
+kielitaitoaan. Kotikieleksi on asettunut venäjä, eivätkä miehenkään
+isovanhemmat ole asuneet samassa taloudessa lasten kanssa. Näyttää
+melko yleiseltä, että vain vanhimmat lapset ovat oppineet karjalaa tai
+komia. Vastaava malli näyttää yleiseltä muissakin kielenvaihtoa
+läpikäyvissä yhteisöissä, kuten esimerkiksi ketšuaa tutkinut Aurolyn
+Luykx on omissa tapaustutkimuksissaan todennut [@luykx2005a,
+s. 1411]. Nancy Dorianilla on vastaava huomio Itä-Sutherlandin
+gaelinkielisistä yhteisöistä, mutta hänen aineistossaan erityisesti
+suuren sisarussarjan nuorimmat lapset ovat oppineet gaelia
+puutteellisesti [@dorian1981a, s 107]. Tällaista kielenoppimista
+seuraava sukupolvi näyttää poikkeuksetta venäläistyneen. Susan Galin
+tutkimuksen perusteella vastaavassa taulukossa esiintyvä pelkän
+valtakielen tai molempien kielten sekakäyttö ennusti, että tästä
+oikealle luokitelluissa ympäristöissä kielenä oli saksa eikä
+unkari. Näin ollen tietyn ympäristön kielivalinnan perusteella oli
+mahdollista arvioida mitä kieltä muissa ympäristöissä käytetään
+[@gal1979a, s. 119]. Domeenin perhe sisäisiä suhteita tarkastellessa
+vastaavaa dynamiikkaa on kyllä havaittavissa omassakin aineistossani,
+mutta tämä ei ole mitenkään ehdotonta. Venäjänkielisestä puolisosta
+huolimatta tietyt informantit raportoivat käyttävänsä ajoittain komia
+tai karjalaa lastensa kanssa, mikä eroaa Galin mallista. Hänen
+tutkimuksensa kuitenkin pohjautui pitkäaikaiseen osallistuvaan
+havainnointiin, ja voikin olla, että osa nyt aineistossa esiintyvästä
+variaatiosta olisi ainoastaan informanttien omasta raportoinnista
+aiheutuva harha.
+
+Käsittelen seuraavaksi muita domeeneja. Olen jakanut ne aiemmin
+esittelemäni mallin mukaan siten, että erikseen on kysytty
+kielenkäytön muutoksesta. Vastaus on tietysti asetettava kontekstiinsa
+informantin iän mukaan, eikä ole mahdollista aina tietää mihin
+vuosikymmeneen informantti viittaa sanoessaan, että ennen puhuttiin
+enemmän toista kieltä. Silti on syytä huomioida, onko informantti
+ylipäätään kokenut tällaista muutosta vai ei, tai muistaako hän aikaa,
+jolloin tilanne oli erilainen.
+
+## Muut domeenit
+
+### Domeeni: Koti
+
+Tarkastelen ensiksi domeenia koti Tuuksessa. Tämän perusteella
+30-luvun lopulla syntyneet käyttävät nykyään kotikielenään joko
+pelkkää venäjää tai karjalaa ja venäjää sekaisin. Ajallisesti tämä
+täsmää aiemmin esitellyn kaavion kanssa, sillä tämän ikäryhmän lapset
+(50–60-luvuilla syntyneet) ovat puhuneet myös venäjää kotona. Jo
+60-luvulla on kotona käytetty sekä karjalaa että venäjää. Kaikkein
+vanhimpien 1920-luvulla syntyneiden lisäksi vain yksittäiset
+informantit pitivät kotia nykyään karjalankielisenä. Kuten on melko
+odotuksenmukaista, kuvailevat erityisesti karjalaa puolisonsa kanssa
+käyttäneet kodin ainakin olleen karjalankielinen. Kodin
+venäläistyminen liitetään usein venäjänkielisiin miniöihin, vävyihin
+ja lapsenlapsiin. Tämän aineiston pohjalta kysymys kielenkäytön
+muutoksesta on tuottanut paljon arvokasta lisätietoa. Vastaajista noin
+puolet arvioi kodin muuttuneen venäläisemmäksi.
+
+Domeenin koti muutosta voi hahmottaa vertaamalla tätä abstraktimpaa
+mallia yksityiskohtaisempaan perheen sisäisen kielenkäytön
+erotteluun. Esimerkiksi sivun X taulukossa 1940-luvun alussa syntynyt
+naisinformantti sijoittui viimeiseen ikäryhmään, joka ei puhunut
+puolison kanssa venäjää. Hänkin kuvaa tässä karkeammassa mallissa
+domeenin koti muuttuneen venäjänkielisemmäksi. Vielä osa 1950-luvulla
+syntyneistä kuitenkin kuvaa kodin olleen aiemmin karjalankielinen.
+
+Riippumatta domeenin koti keskeisyydestä kielen oppimiselle, on se
+yleensä lapsen ensimmäinen domeeni. Näin ollen sen avulla voi seurata,
+onko vähemmistökielen puhuminen perheissä pysynyt niin yleisenä, että
+sen voi olettaa siirtyvän lapsille. On selvää, että kokonaan
+venäjänkielisessä ympäristössä lapsi ei opi muita kieliä. Tuuksen
+aineiston perusteella vielä 1950-luvulla perheissä on käytetty paljon
+karjalaa ja tämä ympäristö on koettu karjalankieliseksi. 1960-luvulle
+tultaessa kotikielenä on ollut sekä karjala että venäjä. Tämä analyysi
+ei vielä paljasta, kuinka tämä suhtautuu eri henkilöihin
+kotona. Tuuksessa sisarten keskinäinen kieli näyttää muuttuneen
+1960-luvulla venäjäksi, mutta kuva vanhempien kielenkäytöstä ei ole
+millään tavalla yhtenäinen. Ainoat yksiselitteisesti karjalaisina
+pysyneet henkilöt kotona ovat olleet isovanhemmat.
+
+Koigortin aineistosta nouseva kuva on hyvin erilainen. Siinä missä
+Tuuksessa puolet arvioi kodin muuttuneen enemmän venäjänkieliseksi, on
+Koigortin informanteista vastannut näin ainoastaan
+neljäsosa. Huomattavan suuri osa informanteista kuvaa kotia nykyäänkin
+kominkieliseksi, näin tekee jopa kaikkein nuorin 1900-luvun alussa
+syntynyt informantti. Tuuksessa tällaisesta ei ollut jälkeäkään. Myös
+1960- ja 1980-luvuilla syntyneiden informanttien näkemys kodista
+nykyään sekä komin että venäjänkielisenä domeenina eroaa paljon
+Tuuksesta, missä koti oli sekakielinen jo 50-luvun lopulle
+tultaessa. Aineiston pienuudesta johtuen on vaikea tehdä pitkälle
+meneviä johtopäätöksiä, mutta tämän perusteella koti on sekä Tuuksessa
+että Koigortissa muuttunut pirstaleisemmaksi domeeniksi, jossa
+perhekohtaisesti on nykyään suurta variaatiota kielellisissä
+valinnoissa. Tuuksessa on selkeästi edetty molempien kielten käytön
+kautta kohti pelkän venäjän käyttöä, mikä on huolestuttavaa siten,
+että samanlainen molempia kieliä yhdistelevä malli on yleistynyt koko
+ajan myös Koigortissa.
+
+### Domeeni: Naapurit
+
+Domeeni naapurit viittaa aiemmin kuvailemallani tavalla lähialueen
+taloihin ja niiden asukkaisiin. Koska haastatteluja on tehty
+maantieteellisesti hyvin pienellä alueella, kuvailevat informantit
+käytännössä kielenkäyttöä toistensa kanssa. Tässä taulukossa pistää
+heti silmään sen muuttumattomuus. Siinä missä perheen sisäinen kieli
+on muuttunut varhain venäjäksi, on naapurusto säilyttänyt kieltä
+paremmin. Ainoastaan neljä informanttia kuvasti naapuruston olevan
+nykyään venäjänkielisempi. Täytyy huomauttaa, että yksittäisistä
+taloista mainittiin, että niihin on nyt muuttanut venäläisiä, mutta
+samat informantit saattoivat arvioida naapuruston yleisesti ottaen
+karjalaiseksi tai komilaiseksi. Käytännössä Tuuksessa nämäkin
+venäjänpuhujat osoittautuivat usein paikallisiksi
+karjalaistaustaisiksi nuoriksi, mutta tämä etnisten suhteiden
+tematiikka jää väistämättä tämän tutkimuksen ulkopuolelle.
+
+Nykyistä naapureiden kanssa tapahtuvaa kielenkäyttöä kuvaa mielestäni
+parhaiten se, että yleisin malli on karjalan ja venäjän sekakäyttö. Ei
+ole eritelty, tarkoittaako tämä venäjän käyttöä tietyissä yhteyksissä
+ja karjalan toisissa, mutta tällainen jaottelu ei välttämättä olisi
+mahdollinen. Käytännössä kyse lienee osittain tällaisesta jaosta,
+mutta samalla viitattaneen ihmisten normaaliin eri kieliä käyttäviin
+puhetapoihin. Pelkästään venäjää naapureiden kanssa käyttävät ovat
+kaikki muualta muuttaneita. Tämä nostaa esiin mahdollisuuden, että
+muiden informanttien arvio naapuruston monikielisyydestä liittyy juuri
+näihin henkilöihin. Tämän puolesta olisi ollut tärkeää kartoittaa
+yksityiskohtaisemmin juuri tiettyjen henkilöiden välisiä suhteita,
+mitä kyllä tehtiin jonkin verran.
+
+Eräs 1960-luvulla syntynyt informantti kuvailee naapuruston muuttuneen
+hyvin venäjänkieliseksi. Samaan naapurustoon keskittyminen paljasti,
+että hänen lähin naapurinsa, informantti 286, itse asiassa on
+karjalainen, ja kuvaa puolestaan naapurustoa täysin karjalaiseksi. Hän
+on kuitenkin iäkkäämpi henkilö ja käy kertoo käyvänsä vain vähän
+kauempana ulkona. 1960-luvulla syntyneen informantin sukulaisia asuu
+samalla alueella, mutta monissa läheisissä taloissa asuu
+venäjänkielisiä perheitä. Heitä ei ehditty haastattelemaan, mutta
+kysyin pihan yli mistä he ovat kotoisin, ja vastauksena oli
+Tuuksa. Tässä osassa naapurustoa liikkui myös useita lapsia. Heiltä
+kysyttiin, missä täällä asuu karjalaisia. He vastasivat, ettei
+missään. On myös informantteja kuten 258, jonka kaikki viereisissä
+taloissa asuvat naapurit ovat karjalaisia ja perheiden iäkkäimmät
+henkilöt vaikuttavat puhuvan karjalaa myös toistensa kanssa. Sama
+informantti kuitenkin kuvaili aiemmin myös kodin venäläistyneen. Hänen
+samassa taloudessa asunut lapsenlapsensa sanoi, ettei osaa karjalaa.
+
+Koigortin vastaava taulukko on tietyssä mielessä liiankin selkeä,
+vaikuttaa, että siinä ei ole päästy vastaavaan tarkkuuteen kuin
+Tuuksessa. Toisaalta tämä voi kuvastaa vanhan komilaisten väestön
+stabiiliutta, haastattelut kuitenkin tehtiin alueella, jossa myös
+rakennuskanta oli hyvin vanhaa ja samat henkilöt asuneet taloissa
+kauan.
+
+Koigortin aineisto viittaa toisaalta naapuruston olleen jo kauan
+tietyiltä osin sekä komin- että venäjänkielinen. Tuuksessa naapurusto
+näyttää perhettä karjalaisemmalta domeenilta. Koigortissa tilanne on
+päinvastainen, ja naapurusto on tiettyjen henkilöiden kuvauksen
+perusteella käyttänyt jo 30-luvulla sekä komia että venäjää. On
+huomattava, että tässä heijastuu Koigortin informanttien laajempi
+asuinalue. Siinä missä Tuuksessa informantit onnistuttiin valitsemaan
+hyvin suppealta alueelta, asuivat he Komissa enemmän
+hajallaan. Mielenkiintoisesti tämä näyttää jossain määrin heijastuvan
+myös Koigortin vastauksissa. Erityisesti kaksi nuorinta informanttia
+asuvat hyvin lähekkäin ja puhuvat selvästi samasta alueesta.
+
+### Domeeni: Kylä
+
+Tuuksen domeeni kylä näyttää huomattavan venäjänkieliseltä tämän
+taulukon perusteella. On kuitenkin huomattava, että suurin osa näin
+vastanneista on venäjää pääasiallisena kielenään käyttäviä, ja
+ainoastaan yksi karjalainen vastaaja piti kylää näin
+venäjänkielisenä. Yleisin karjalaistenvastaajien vastaustyyppi on,
+että kylässä käytetään nykyään sekä karjalaa että venäjää. Toisaalta
+1940-luvun alussa syntynyt informantti kuvasi kylässä käytettävän
+nykyään hyvin vähän karjalaa, vaikka hänen nuoruudessaan se olikin
+pääasiallinen käyttökieli.
+
+Usein viitataan, että karjalaa käytetään niiden kanssa, jotka sitä jo
+osaavat. Tämä tavallaan selittää venäjänkielisten informanttien
+kokemusta kylästä hyvin venäjänkielisenä. He ovat oppineet ymmärtämään
+karjalaa kylään muutettuaan, mutta heille sitä ei ole puhuttu. Jos
+karjalaiset ovat aina valinneet kieleksi venäjän heidän kanssaan
+toimiessaan, ei ole varsinaisesti yllättävää, jos kokemus yhteisöstä
+on jäänyt venäjänkieliseksi. Kielivalintaa perustellaan näin myös
+Koigortissa:
+
+Näyte 5. Informantti 49, nauha: 155, [00:41:39]. 30.6.2012.
+
+Koigortin domeenille kylä on leimallista sekä komin että venäjän
+käyttö, jopa huomattavasti enemmän kuin pelkkää paikallista
+naapurustoa tarkasteltaessa. Tässä mielestä aineisto heijastelisi
+hyvin kielenvaihdon alueellisuutta, siten että näiden informanttien
+kodit olisivat kominkielisiä, naapurusto myös melko voimakkaasti tätä,
+mutta laajempi kyläyhteisö koettaisiin molempia kieliä
+käyttäviksi. Nyt ei ole kysytty erikseen domeenista kaupunki, mutta
+aiheen sivuaminen eri yhteyksissä haastatteluissa viittaisi siihen,
+että tämä domeeni koettaisiin lähtökohtaisesti venäjänkieliseksi.
+
+### Domeeni: Työ
+
+Tämän domeenin tarkastelussa en ole ottanut huomioon informanttien
+kokemusta ajallisesta muutoksesta. Iäkkäimmistä informanteista monet
+olivat olleet niin kauan eläkkeellä, ettei heillä ollut tietoa nykyään
+työpaikoilla käytetyistä kielistä. Käytännössä iäkkäimmät informantit
+muistelevat töissä ennen käyttämäänsä kieltä ja nuoremmat nyt
+käyttämäänsä. Domeenin työ kannalta kaikkein tärkeintä on mistä työstä
+on milloinkin kyse. Muuten tämän domeenin analysointi olisi täysin
+mahdotonta. Yksittäisiä informantteja on jouduttu poistamaan
+otoksesta, sillä heidän ammateista ei ollut kunnollista
+tietoa. Tällaisia on nytkin jäänyt, sillä esimerkiksi eläkeläinen ei
+tietenkään ole varsinainen ammatti.
+
+Mielestäni tärkein Tuuksen ammateista tehtävä havainto on, että
+ammattia selkeämmin kielivalinta korreloi informantin iän
+kanssa. Ammateissa on toki eroja niihin kuuluvan koulutuksen keston ja
+yhteiskunnallisen prestiisin kannalta. Kuten totesin aiemmin, liittyy
+tähän suuria metodologisia ongelmia kuinka määritellä eri ammattien
+prestiisiä tällaisissa yhteisöissä. Nuoret informantit ovat
+keskimäärin vanhempia korkeammin koulutettuja, mutta tämä heijastaa
+nähdäkseni yhteiskunnan muutosta tänä aikana. Nuoremmilla on ollut
+vanhempiaan paremmat mahdollisuudet opiskella kylän
+ulkopuolella. Ammatilliseen erikoistumiseen on kuulunut opiskelu
+poissa kotikylästä, mikä on käytännössä tarkoittanut useampaa vuotta
+venäjänkielisemmässä ympäristössä. Luonnollisesti jokaista
+korkeakoulun tai opiston jälkeen kylään palannutta kohden on lukuisia
+jotka ovat jääneet kaupunkiin tai päätyneet asumaan muille
+alueille. On mahdotonta arvioida, kuinka suuri osa tästä väestöstä on
+venäläistynyt kielellisesti, mutta tämän voi olettaa olevan suorassa
+yhteydessä ympäristöön, johon on muutettu.
+
+On tärkeä kysymys, onko työtehtävällä ja käytetyllä kielellä selvää
+yhteyttä. Aiemman kokemukseni perusteella tällaisia korrelaatioita voi
+olla vaikea osoittaa. Olen aiemmin yrittänyt rekonstruoida karjalaisia
+käytäntöyhteisöjä Vuokkiniemellä, mikä toimi mielestäni varsin hyvin
+osoitettaessa tiettyjen työporukoiden käyttävän tiettyjä kieliä
+(Partanen 2013: 31–32). Tämäkin analyysi lähti huomiosta, etteivät
+ammatit itsessään vaikuttaneet korreloivan kielivalintojen kanssa. On
+huomionarvoista, että vain yksi informantti käyttää työssään
+suomea. Esimerkiksi Vienassa suomen rooli työelämässä voisi olla
+huomattavasti suurempi.
+
+Koigortin taulukko periaatteessa toistaa Tuuksen tuloksia. Nuoremmat
+vastaajat käyttävät töissään enemmän venäjää. Ammattien suhteen
+toistuu samanlaista tendenssiä kuin Tuuksessakin, että nuorempien
+informanttien ammatit ovat korkeammin koulutettuja kuin heitä
+vanhempien. Erityisesti Koigortin pienemmästä aineistosta pistää
+kuitenkin silmään, että lääkäri, johtaja ja opettaja käyttävät
+työssään pelkkää venäjää. Sama tendenssi on läsnä Tuuksessa, jossa
+samat ammattiryhmät nousevat eri ikäluokissa esiin venäjää
+käyttävinä. Ketšuan kieltä tutkinut Nancy Hornberger on
+samantapaisessa pienen kieliyhteisön asenteita käsitelleessä
+tutkimuksessaan saanut hyvin samanlaisen tuloksen, jossa espanja
+assosioitiin muun muassa koulutukseen ja ylemmän toimiluokan töihin
+(Hornberger 1988: 219). Myös Susan Galin tutkimuksessa hallinnon
+viranomaisten kanssa käytettiin saksaa eikä unkaria iästä riippumatta
+(Gal 1979: 126).
+
+### Domeeni: Kauppa
+
+Sekä Tuuksessa että Koigortissa on useampia kauppoja. Ne ovat kaikki
+melko pieniä ja sisältävät pääasiassa peruselintarvikkeita ja
+käyttöesineitä, varsinaisia supermarketteja ei ole. Suurempien
+ostosten takia on mentävä Aunukseen tai Syktyvkariin. Pienessä
+yhteisössä kauppaa voi pitää melko epämuodollisena tilana, jos on
+oletettavissa kaupan myyjien ja asiakkaiden tuntevan
+toisensa. Domeenin kauppa etuna on se, että tutkija voi itse tiettyyn
+pisteeseen asti tarkastaa täällä työskentelevien kielitaidon. Rajat
+tulevat vastaan siinä, että ainoastaan enemmistökieltä aktiivisesti
+osaavien passiivisesta kielitaidosta ei voi ottaa selvää mitenkään
+yksinkertaisin havainnoivin metodein. Sen sijaan aktiivisen
+kielitaidon olemassaolon voi varmistaa käymällä keskusteluja kaupan
+henkilökunnan kanssa. Ihanteellisessa tilanteessa hekin lukeutuisivat
+kaikki tutkimuksen informanttien joukkoon, mutta valitettavasti tässä
+otoksessa tilanne ei ole tällainen. Tiedän kuitenkin, että osassa
+Tuuksen ja Koigortin kauppoja osattiin molempia kieliä, mutta
+tietyissä liikkeissä ainoalta mahdolliselta asiointikieleltä vaikutti
+venäjä. Näin ollen on kuitenkin selvää, domeenin kauppa ei tarvitsisi
+olla ainoastaan venäjänkielinen.
+
+Tämän pohjalta on mielenkiintoista havaita, että silti valtaosa
+Tuuksen informanteista käyttää kaupassa nykyään venäjää. Ainoastaan
+iäkkäimmät informantit käyttävät karjalaa. Domeenissa on havaittavissa
+muutosta venäjänkielisemmäksi, mutta tämä malli ei ole niin voimakas
+kuin domeenissa koti. Oikeastaan tällainen kielenkäytön malli kaupassa
+näyttää olevan hyvin vanha, sillä useammat 40-luvullasyntyneet
+raportoivat käyttäytyneensä kaupassa näin jo kauan sitten.
+
+Tältä osin tulokset ovat erilaisia Koigortissa. Vielä 60-luvulla
+syntyneet raportoivat käyttäneensä kaupassa komia. Aineistosta ei näy
+nuorten ikäluokkien kielellisiä valintoja riittävissä määrin, mutta se
+on selvä, että domeeni on muuttunut venäjänkielisemmäksi. Tämä muutos
+on ollut voimakkaampi kuin Tuuksessa, mutta toisaalta Tuuksen
+lähtötaso on ollut koko mittausvälillä venäläisempi.
+
+Tätä muutosta paremmin selittääkseni olen tarkastellut domeeniin
+kauppa liittyviä diskursiivisia käytänteitä. Esimerkiksi 40-luvulla
+syntynyt naispuolinen informantti kuvaa kielenkäyttöä kaupassa
+seuraavalla tavalla:
+
+Näyte 6. Informantti 296, nauha: 77, [00:22:41]. 16.5.2012
+
+On kuitenkin selvää, että koko hänen ikäluokkansa ei puhunut ennen
+kaupassa venäjää. Eivätkä kaikki selvästi puhu tänäkään
+päivänä. 1970-luvun alussa syntynyt karjalainen informantti kuvaa
+kielenkäyttöään kaupassa seuraavalla tavalla. Edellä siteeraamani
+informantti edustaa hänen vanhempiensa sukupolvea, jonka kielenkäyttö
+kaupassa ei ole aiemminkaan ollut mitenkään yhtenäinen.
+
+Näyte 7. Informantti 257, nauha: 58, [00:45:19]. 16.5.2012
+
+Informantti on itse karjalan kielen aktiivikäyttäjä ja osaa kieltä
+sujuvasti. Silti domeenissa kauppa hänet katsotaan
+venäjänkieliseksi. Tämä vastaus kuvaa mielestäni hyvin kielivalinnan
+vastavuoroisuutta domeenin sisällä ja henkilöiden kesken. Toisaalta
+läsnä on asiakkaan kielivalinta, mutta myös kaupan työntekijän käsitys
+työssään käytetystä kielestä. Rivillä 6 informantti kuvailee, kuinka
+kaupassa myyjät käyttävät häntä vanhempien ihmisten kanssa
+karjalaa. On otettava huomioon, että heidän karjalan käyttämisensä ei
+ole millään tavalla piilotettua tietoa, sillä kaikki ikäryhmät saavat
+tietää tästä käydessään kaupassa. Aineistossa on yksittäisiä
+1960-luvulla ja tätä aiemmin syntyneitä informantteja, jotka ovat
+vastanneet käyttävänsä kaupassa karjalaa. On hyvin yleinen narratiivi,
+että kaupan myyjät käyttävät karjalaa vain vanhojen ihmisten
+kanssa. Nuorinkin 1990-luvun alussa syntynyt tuukselainen informantti
+toisti saman kuvatessaan domeenia kauppa. Toinen yleinen narratiivi
+on, että kauppojen myyjät vaihtuvat jatkuvasti. Tämä toistuu sekä
+Karjalassa että Komissa. Esimerkiksi 1950-luvulla syntynyt komilainen
+mies antoi seuraavan kuvauksen:
+
+Näyte 8. Informantti 295, nauha 76. [00:42:50]. 1.7.2012.
+
+Nähdäkseni tämä diskurssi kaupan työntekijöiden vaihtuvuudesta liittyy
+usein siihen, etteivät informantit tunne kaikkia nuoria
+työntekijöitä. Tällaisten yhteisöjen kauppojen työntekijöiden määrä on
+rajallinen, joten domeenia kauppa olisi syytä tarkastella yksittäisten
+siellä työskentelevien henkilöiden kautta. Näin esimerkiksi Susan Gal
+teki omassa klassikkotutkimuksessaan. Kaupassa tapahtuvan kielenkäytön
+sijasta hän kysyi erikseen eri kauppiaiden kanssa käytettyä
+kieltä. (Gal 1979: 179). Metodologisesti tämä on nykyistä mallia
+paljon hienostuneempi ja tulevaisuudesta tätä on pidettävä
+esikuvana. Vaatimuksena on lähinnä, että kylässä vietetään niin kauan
+aikaa, että oppii tuntemaan kaikki asukkaat ja heidän arkeaan.
+
+### Domeeni: Koulu
+
+Esitän koulusta kerätyt domeenitiedot ainoastaan yksisarakkeisena
+taulukkona, sillä mielestäni informanttien oli vaikea vastata
+kysymykseen koulussa nykyään käytetystä kielestä. He eivät olleet
+viettäneet tässä ympäristössä paljoakaan aikaa aikuisiällään, joten
+aiheen tarkastelu ei ehkä olisi ollut mielekästä. Mainitsin jo sivulla
+XX, että Karjalassa karjalan- tai suomenkielinen opetus loppui
+1950-luvulla. Komissa tämä tapahtui hieman myöhemmin 1970-luvulle
+tultaessa. Aiemman sivulla XX esittämäni analyysin perusteella koulu
+on jo varhain ollut se domeeni, joka on tuonut venäjän informanttien
+kielelliseen repertuaariin. Kotikieleksi venäjä oli siirtynyt
+Tuuksessa vasta 1960-luvulla. Sekä Karjalassa että Komissa iäkkäin
+haastateltu sukupolvi on kasvanut ympäristössä, jossa venäjää ei juuri
+ole käytetty. Kouluun on menty usein osaten vain yksittäisiä sanoja
+venäjää.
+
+Domeenia koulu kartoitettaessa on erityisesti keskitytty siihen, mitä
+kieltä lapset ovat puhuneet keskenään koulussa. Ajatuksena on, että
+näin saataisiin näkymään eri ikäluokkien keskinäisen kielenkäytön
+malleja. Ei ole aina täysin mahdollista erottaa erilaisia vastauksia
+toisistaan, sillä eri informantit ovat voineet käsittää kysymyksen eri
+tavalla kuin olin ajatellut. Tämän takia yhdistän taulukoihin
+informanttien henkilökohtaisia narratiiveja domeenista
+koulu. Tällaisesta aineistoista nousee myös esiin yksityiskohtia,
+jotka eivät näy muussa analyysissa.
+
+Taulukoiden perusteella Tuuksessa koulukieli olisi alkanut muuttua
+osittain venäjäksi jo 1940-luvulla syntyneiden parissa. Heidän
+kouluvuotensa ajoittuvat käytännössä 1940-luvun loppuun ja 1950-luvun
+alkuun. Tällä hetkellä nuorimmat informantit kuvaavat koulua täysin
+venäjänkieliseksi domeeniksi. Tuuksen ja Koigortin välillä on hyvin
+keskeisiä eroja siinä diskurssissa, jolla koulukieltä eri aikoina
+käsitellään. Karjalassa toistuu jatkuvasti tieto kiellosta käyttää
+karjalaa 50-luvuilla. Tämä näkyy esimerkiksi seuraavissa äidin ja
+tyttären haastatteluissa:
+
+Näyte 9. Informantti 296, nauha: 77, [00:10:53]. 16.5.2012
+
+Tyttären haastattelussa sama kerrontatapa toistuu:
+
+Näyte 10. Informantti 257, nauha: 58, [00:36:57]. 16.5.2012
+
+Vastaava narratiivi karjalan käytön kieltämisestä toistuu lähes
+identtisenä haastattelusta toiseen. Ajoittain siihen liitetään
+yksityiskohtia kuten karjalan puhumisesta seuranneet ylimääräiset
+tunnit koulun jälkeen, kotiin tuodut laput tai nurkassa
+seisottaminen. Vastaajien ikien perusteella on mahdollista ajoittaa
+kielen puhumisen kieltäminen Karjalassa 40-luvun lopusta
+70-luvulle. Rivillä 3 informantin äiti viittaa nykyään ajan olevan
+erilainen suhteessa omaan kouluaikaansa 50-luvulla, siinä missä tytär
+kuvaa 70-luvun lopun tilannetta. Rivillä 6 tytär viittaa myöhempään
+aikaan 90-luvulla, jolloin karjalan kieli tuli kouluissa
+oppiaineeksi. Informanttien kuvauksen perusteella koulujen
+venäläistäminen 1950-luvulla liittyy olennaisesti kieltoon puhua
+karjalaa. Kielto esitetään jatkuvasti syynä kielen katkeamiselle,
+mutta nähtävästi lastenkin keskinäinen kielenkäyttö jatkui ainakin
+jossain piireissä vielä 1970-luvulla. Rivillä 5 tytär korostaa, että
+jo hänen aikanaan olisi pitänyt opettaa karjalaa koulussa. Palaan
+tämän perheen kielenkäyttöön tarkastellessani kielellisiä verkostoja
+luvussa X.
+
+Narratiiveista nousee kuitenkin kysymyksiä, kuten kuka käytännössä on
+kieltänyt käyttämästä karjalaa. Sivulla 60 viittasin toisen opettajan
+narratiiviin, jossa hän kertoi Moskovasta tulleen käskyn olla
+opettamatta karjalaa. Samaa ikäluokkaa edustava toinen opettaja
+kuvaili ikoneista kertoessaan seuraavasti:
+
+Näyte 11. Informantti 277: 1, [01:01:00]. 12.5.2012
+
+Riveillä 8–10 hän kuvaa opettajia kielletyn harjoittamasta
+uskontoa. Kehotettiin heittämään ikonit pois. Valitettavasti
+keskustelu ei tuolloin siirtynyt suhtautumiseen kieleen, mikä lähinnä
+kertoo omasta kokemattomuudestani haastattelutyössä. Silti nämä
+haastattelut liittyvät toisiinsa ja heijastelevat erilaisin tavoin
+Neuvostoliiton poliittisia tavoitteita. Tällainen diskurssi vaikuttaa
+yleisimmältä juuri opettajien keskuudessa, mutta siinä ei nouse esiin
+roolia käskyn antajana. Se on tullut aina muualta, toisilta,
+Moskovasta.
+
+Yhtäläisyyksistään huolimatta nyt tarkastelemani kouluun liittyvä
+diskurssi on erilainen Komissa. Tämä ei tarkoita, ettei koulun
+venäjäntaitoa synnyttänyt vaikutus olisi silti samantapainen. Kieltoon
+kytkeytyvän diskurssin sijasta koulun venäläisyyttä perustellaan eri
+tavalla. Tämä näkyy esimerkiksi 1940-luvun lopulla syntyneen
+informantin kerronnassa:
+
+Näyte 12. Informantti 42, nauhoitus 149. 00:23:00. 2.7.2013.
+
+Haastattelussa ei ole jälkeäkään pakosta puhua venäjää, mutta
+tottuminen venäjän käyttöön venäjänkielisten seurassa on usein
+läsnä. Kyseinen informantti oppi komia vasta kouluikäisenä
+Koigortissa, mutta käyttää nykyäänkin komia ainakin oman ikäryhmänsä
+miesten kanssa. Tähän samaan miesporukkaan kuuluvia henkilöitä on
+informanttieni joukossa useampi. Palaan tämän informantin kielitaitoon
+luvussa X. Mainitsin kuitenkin jo aiemmin, että Komissa komia
+opetettiin vielä 1970-luvulle asti. Myös tämä informantti on oppinut
+komia koulussa ja osaa kirjoittaa sitä.
+
+Grivalaiset lapset tulevat neljännen luokan jälkeen Koigortiin, joten
+kysyin 1990-luvun alussa syntyneeltä informantilta mitä kieltä he
+puhuivat keskenään:
+
+Näyte 13. Informantti 57, nauha: 166, [00:25:09].  7.7.2012.
+
+Komia käytettiin siis ainoastaan komin kielen ja kirjallisuuden
+oppitunneilla. Rivin 4 alussa tätä selitetään siten, että näin vain
+kävi. Kyseinen informantti kertoo muualla haastattelussa olevansa
+hyvin näkyvästi kominkielinen nuori Koigortin
+paikallisyhteisössä. Tämä liittyy myös tosiasiaan, että hänet
+ylipäätään löydettiin. Minulle kerrottiin aiemmin kaupassa, että tässä
+perheessä nuoret osaavat hyvin komia. Hänen mukaansa suurin osa muista
+lapsista ymmärtää ja komia, mutta ei puhu sitä. Tätä voi verrata
+siihen, kuinka 1970-luvulla koulunsa käynyt informantti muistelee,
+että hänen kouluaikanaan kaikki lapset puhuivat komia. Hän ajoittaa
+kielenvaihdon 80-luvun loppuun. Toinen 80-luvun lopulla koulussa
+käynyt informantti vahvistaa tätä kuvaa. Hänenkin mukaansa lähes
+kaikki nuoret ymmärtävät komia, mutta heidän kanssaan puhutaan
+venäjää. Koulusta hän mainitsee, että oppitunneilla puhutaan vain
+venäjää. Hän tietää hyvin, että muilla lapsilla on jonkinlaista
+passiivista komin kompetenssia, mutta tämä ei realisoidu aktiivisena
+komin puhumisena. Hän käyttää omien veljiensä kanssa venäjää ja
+mainitsee erikseen, että heidän luokkakaverinsa puhuvat myös
+venäjää. Tämä vastaa tarkasti Tuuksessa koulua 1980-luvulla käyneen
+informantin kuvausta.
+
+Eräs 60-luvun alussa Myrponaibissä (katso kartta sivulla X) syntynyt
+informantti oli käynyt koulunsa S’ödtydorin
+metsätyötaajamassa. Koulukieli oli ollut venäjä, eikä hänen aikanaan
+komia opetettu lapsille tässä koulussa. Hän kertoo oppineensa itse
+lukemaan komia ja lukevansa mielellään erityisesti
+talvisin. Koulukielestä keskustellessa ei nouse esiin syrjinnän tai
+kiellon kokemuksia, mutta hänen mukaansa vanhempia ja isovanhempia oli
+kehotettu auttamaan lapsen venäjän oppimisessa. Kotikielenä oli ollut
+komi. Informantti kuvaili, ettei osannut kouluun mennessään edes
+värejä venäjäksi. Hän opiskeli joitain vuosia Syktyvkarissa 1970-luvun
+lopulla. Hän kertoi, ettei kuullut tuolloin yhtään sanaa
+komia. Perusteluna oli myös karjalassa toistuva diskurssi siitä,
+kuinka aika oli tuolloin sellainen, ettei vähemmistökieltä haluttu
+puhua. Keskustelu eteni seuraavalla tavalla.
+
+Näyte 14. Informantti 294, nauha 75, [00:33:22]. 4.7.2012.
+
+Tässä nousee esiin ajatus siitä, että Komissakin on ollut aika,
+jolloin komia ei ole sallittu tai haluttu puhua. Tämä koskee
+erityisesti Syktyvkaria. Viitatessaan kyliin (informantti on asunut
+Myrponaibissa ja Užgassa) hän kuvaa tämän pelon tunteen puuttuneen
+tässä ympäristössä. Tässä kerronnassa näkyy yleinen tapa alueellistaa
+kielenvaihtoa. Vietettyäni erimittaisia aikoja erilaisissa
+kominkielisissä yhteisöissä, olen saanut vahvan kuvan siitä, että
+hyvin usein kielitilanteen koetaan muuttuneen tällä tavalla 90-luvun
+aikana. Mainitaan, että ennen ei uskallettu puhua komia julkisella
+paikalla, mutta nyt asia on muuttunut. Kuten aiempi tarkastelu
+viittasi, metsätyötaajamissa kieli on vaihtunut venäjäksi jo niiden
+perustamisesta alkaen. Mutta on eri kysymys, kuinka tämä on nähtävissä
+esimerkiksi Koigortissa tai Grivassa. Syktyvkarissa kieltä ei
+kuule. Aiemmin on käyty läpi, että Griva on komilainen kylä, mutta
+informantti toteaa, että esimerkiksi Koigortissa kasvaneet
+lapsenlapset eivät tietenkään osaa komia. Śödtydor on hänestä
+leimallisesti venäläinen. Tällainen eri asutusten assosioiminen eri
+kieliin saattaa olla merkityksellistä kielenvaihdon
+käsitteellistämiselle, sillä kuten jo aiemmassa analyysissa
+osoittautui, ei Koigortinkaan tilanne ole näin
+yksiselitteinen. Kielenvaihdon asteessa on valtavia eroja eri
+yhteisöjen välillä, mutta ehkä tällaisten pelon ja kiellon diskurssien
+juurtuminen tai juurtumatta jääminen on osaltaan erilaisten asetelmien
+takana. Karjalassa tähän aikaan liittyy voimakas kielto, mutta Komissa
+70–80 -luvuilla ilmeisesti vallinnut pelon diskurssi ei välttämättä
+ole ollut vaikutuksiltaan yhtään vähemmän tuhoisa. Myös täällä lasten
+koulussa ja välitunneilla käyttämä kieli vaihtui viimeistään
+1980-luvulle tultaessa, vaikka ilmeisesti siihen kehotettiin
+epäsuoremmalla tavalla. On kuitenkin merkittävää, että kieli ei ole
+vaihtunut välittömästi kielelle negatiivisten poliittisten muutosten
+jälkeen.
+
+## Verkostoanalyysi
+
+Sovellan yksittäisten informanttien biografioihin sosiaalisten ja
+kielellisten verkostojen analyysia, joka on tässä karkeasti ottaen
+sukupuu ja kielitaidon muutos siinä eri sukupolvien kesken. Olen
+valinnut tähän yksittäisiä perheitä samoista
+naapurustoista. Verkostojen rakenne perustuu sekä haastatteluihin että
+osallistuvaan havainnointiin, minkä lisäksi niitä on mahdollisuuksien
+mukaan täydennetty vanhemmalla etnografisella
+aineistolla. Luonnollisesti kyseessä on ainoastaan sirpalemainen otos
+ja vaillinainen käsitys informanttien oikeista verkostoista, mutta
+pyrin tuomaan niillä esiin uusia yksityiskohtia kielenvaihdon
+etenemisen dynamiikasta. Samalla ne täydentävät kuvaa kielenvaihdon
+kulusta, jota esittelin aiemmin domeenien muutoksen kautta. Haluan
+myös siirtää sen avulla tarkastelun koko yhteisöstä yksilöihin, joita
+kielenvaihto konkreettisesti koskee. Yhteensä esimerkkitapauksia on
+viisi. Kaksi ensimmäistä kuvaa Tuuksessa ja Koigortissa nähdäkseni
+hyvin tyypillisiä tapauksia, kun taas kolme viimeistä esimerkkiä
+nostavat mielestäni esiin kielenvaihdon tutkimuksessa helposti
+huomiotta jääviä yksityiskohtia. Näiden jälkeen käyn läpi vielä yhden
+esimerkin, jolla haluan tarkentaa kuvaa kielenvaihdosta, jossa vain
+osa lapsista oppii kahta kieltä.
+
+Esittelemieni verkostojen suurin puute on varmasti siinä, että se ei
+havainnollista kunnolla Neuvostoliiton aikana tapahtunutta
+perherakenteen muutosta. Erityisesti lasten määrä on
+pienentynyt. Samalla on muuttunut yleisemmäksi, että eri sukupolvet
+asuvat erillään. Nyt esittämissäni malleissa perheenjäsenet on jaettu
+sukupolvien perusteella eri ikäryhmiin, mutta olen yksinkertaistanut
+tätä jonkin verran anonymisoidakseni kyseisiä
+henkilöitä. Syntymävuodet, lasten määrät ja sukupuolet eivät ole
+tarkkoja, ja esitystä onkin tulkittava tämä epätarkkuus huomioon
+ottaen.
+
+Oheinen kaavio kuvaa verkostossa käyttämiäni symboleja. Henkilöiden
+välillä olevat viivat kuvaavat heidän keskenään käyttämäänsä
+kieltä. Tämä on lähtökohtaisesti epätarkka määritelmä, sillä
+Karjalassa tiedetään olevan jatkuvasti käytössä erilaisia karjalaa ja
+venäjää yhdisteleviä kielimuotoja (Sarhimaa 1999). Nuolet osoittavat
+kielenkäytön suuntaa. Kaaviossa X on käytetty muita paksumpia nuolia
+kuvaamaan tiettyjen ryhmien kielenkäyttöä, sillä ei olisi ollut
+tarkoituksen mukaista sekoittaa kaaviota suurella määrällä
+tarpeettomia nuolia. Jatkotutkimuksessa olisi tarpeellista ottaa
+paremmin huomioon informanttien oikea kielenkäyttö ja nauhoittaa
+erilaisia puhetilanteita heidän välillään. Näin olisi mahdollista
+verrata ihmisten arvioimaa ja toteutunutta kielenkäyttöä, kute n
+esimerkiksi Susan Gal on tehnyt (Gal 1979).
+
+Olen merkinnyt valkoisella keskuksella henkilöt, jotka eivät asu nyt
+tutkituissa naapurustoissa. Tämä konvention olen kopioinut nahuatlia
+ja saamea tutkivalta Hingaroválta (VUOSI). Yleistäen voi sanoa, että
+mallin iäkkäämmät henkilöt ovat jo kuolleet tai asuvat muualla, näin
+on esimerkiksi miniänä yhteisöön muuttaneiden naisten vanhempien
+kohdalla, kun taas naapuruston ulkopuolella asuvat nuoret ovat
+muuttaneet kaupunkeihin opiskelun tai työn takia. Samassa
+naapurustossa asuneet henkilöt on merkitty osaksi tätä naapurustoa.
+
+### Verkosto Karjala 1: Varhainen kielenvaihto
+
+Tämä verkosto on siten poikkeuksellinen, että olen voinut käyttää
+siinä jo 60-luvulla Erkki Ala-Könnin nauhoittamaa
+materiaalia. Kyseessä on itkuvirsien nauhoituksen ohessa tulkin
+välityksellä kerätty suppea haastatteluaineisto. Tätä materiaalia ei
+ole kerätty minkäänlaista verkostojen tai domeenien analyysia mielessä
+pitäen, ei edes kielenvaihtoa tarkastellen. Toisaalta materiaalia ei
+saa ylenkatsoa, sillä tällaisia ikkunoita 60-luvun Karjalaan ei ole
+liikaa tutkijoiden käytettävissä. Monien kielten parissa on
+työskennelty 1800-luvulta lähtien, joten tutkijan hyödyntämä ajallinen
+ulottuvuus voisi olla vielä tätäkin syvempi.
+
+Verkosto itsessään on seuraavalla sivulla. Aloitan iäkkäimmästä
+informantista, joka on syntynyt 1800-luvun viimeisinä vuosina. Hän
+osasi venäjää, mutta huonommin kuin esimerkiksi muutamia vuosia
+vanhempi veljensä. Hän kertoo haastattelussa olleensa sodan aikana
+kolme vuotta Jaroslavin oblastissa. Hänen veljensä itse asiassa esitti
+Ala-Könnille lukuisia venäjänkielisiä tšastuskoja, mutta ei ole
+tietoa, missä hän on niitä oppinut. Lapsenlapsen kuvauksen perusteella
+tämä sukupolvi puhui karjalaa kaikkien paitsi lapsenlapsen vaimon
+kanssa, joka on muualta Venäjältä muuttanut ja taustaltaan täysin
+venäjänkielinen.Vanhasta haastattelusta käy ilmi lasten ja
+lastenlasten tarkka määrä:
+
+Näyte 15. Informantti 439, nauha: 411. 8.6.1966.
+
+Käytännössä jo tällä yhdellä informantilla on ollut 17 lastenlasta. Ei
+ole tietoa, ovatko he kaikki eläneet aikuisiksi, mutta nyt
+tarkastellulla lapsenlapsella on itsellään jo 6 lapsenlasta. Jos
+jokaisella lapsenlapsella olisi kuusi lapsenlasta, olisi heitä
+yhteensä yli sata.Tässä seurataan siis nyt vain pienen sukuhaaran
+kielenkäyttöä. Tätä laajentamalla voitaisiin kuitenkin päästä
+työskentelytapaan, jolla voitaisiin esittää esimerkiksi
+prosenttiosuuksia kielen säilymisestä tietyissä yhteisöissä ja
+sukuverkostoissa. Seuraavan sivun kuva X havainnollistaa kielenvaihdon
+etenemistä tässä perheessä:
+
+Verkostosta näkyy, kuinka jo 30-luvulla tässä naapurustossa syntyneet
+ovat käyttäneet sekä karjalaa että venäjää. Näkyvissä on vanhin
+ikäpolvi, jonka pääasiallinen käyttökieli on ollut karjala. Se, että
+30-luvulla syntyneet olisivat käyttäneet molempia kieliä, sopii
+aiemmin esittämääni domeenianalyysiin. Vielä 1980-luvulla syntyneet
+lapset ovat oppineet jonkin verran karjalaa, vaikka eivät itse
+puhukaan sitä. Tämä liittyy ajallisesti informantin 1 kuolemaan. Tämän
+jälkeen ehdot passiivisen kielitaidon kehittymiselle näyttävät
+kadonneen.
+
+Informantti 1 kertoi 1960-luvulla hoitaneensa lapsenlapsistaan kaikkia
+joskus, mutta kahdeksaa muita enemmän. Tämän verkoston kannalta on
+merkittävää, että 1950-luvulla syntyneen lapsenlapsen perhe on asunut
+hänen lapsuudessaan Pitkärannassa. Hän muutti Tuuksaan
+päiväkoti-ikäisenä 1950-luvun lopulla, mutta korostaa haastattelussa
+oppineensa karjalaa päiväkodissa. Hänen omat hänen vanhempansa ovat
+puhuneet hänelle venäjää. Hän katsoo osaavansa karjalaa ja venäjää
+yhtä hyvin. Tämä ei nyt näy tässä verkostossa, mutta samassa
+naapurustossa on erittäin paljon samaa ikäluokkaa edustavia iäkkäämpiä
+miehiä, jotka käyttävät karjalaa keskenään. Tähän joukkoon vaikuttaa
+kuuluvan 1930–1960-luvuilla syntyneitä henkilöitä.
+
+Informantti 2 on puhunut omille 70–80-luvuilla syntyneille lapsilleen
+ainoastaan venäjää, sillä hänen mukaansa aika vain oli
+sellainen. Hänen vaimonsa on Vologdasta ja taustansa venäläinen. Hän
+on oppinut ymmärtämään karjalaa Tuuksaan muuttamisensa
+jälkeen. Oletettavasti myös nuoremman informantin vaimon kannalta
+nimenomaan miehen isoäiti on ollut keskeisessä roolissa passiivisen
+kielitaidon kehittymisessä. Hän kuoli 1980-luvulla, mikä tässä
+tapauksessa rajaa kielen transmission perheessä. Myös nuorimman
+tuukselaisen informantin tapauksessa on kuvaavaa, että isoäiti asuu
+perheessä. Nyt tarkastellussa verkostossa isoisoisä oli kuollut jo
+huomattavasti aiemmin ja kaikki nykyiset isovanhempien sukupolvea
+edustavat ovat omaksuneet venäjän puhumisen lapsille. Aiemmin
+esittelemäni domeenien ja kielitaidon analyysi osoitti, että
+1980-luvulla lasten keskinäinen käyttökieli on alkanut muuttua lähes
+yksinomaan venäjäksi. Kontrastina tähän näyttää selkeältä, että vielä
+1960-luvulla karjala on ollut niin vahvasti yhteisön elävä
+käyttökieli, että lapset ovat käyttäneet sitä keskenään.
+
+Minulla on myös jonkin verran tietoja informantin sisaruksista. Heistä
+kaksi on muuttanut pois Tuuksesta, mutta yksi sisar asuu
+täällä. Valitettavasti häntä ei ehditty haastatella, joten nyt
+esitetyt tiedot perustuvat saman informantin kertomaan. Sisar on
+syntynyt noin 10 vuotta nuorempi. Hän puhuu sekä karjalaa että
+venäjää. Hänen miehensä on lyydiläinen, mutta ainoastaan ymmärtää
+karjalaa. Heidän kaksi lastaan ymmärtävät karjalaa, mutta eivät puhu
+sitä. Lapsista yksi asuu Tuuksessa ja toinen Petroskoissa. Yksi pieni
+lapsenlapsi käy Tuuksen päiväkodissa. Hänen kielitaidostaan ei ole
+tietoa. Tällaisia esimerkkejä lyydiläisten, vepsäläisten ja
+inkerinsuomalaisten muuttamisesta Tuukseen on melko
+paljon. Yleisimmältä kehitykseltä näyttää nytkin, että he eivät olisi
+integroituneet yhteisöön venäjän, eivätkä karjalan puhujina.
+
+### Verkosto Karjala 2: Potentiaalinen kielen säilyminen 2010-luvulla
+
+Jatkan tarkastelua kahden muun perheen kautta, jotka elävät samassa
+naapurustossa edellisen perheen kanssa. Se on hieman laajempi ja
+perustuu neljään haastatteluun. Vanhin kaaviossa oleva henkilö on
+erään 1970-luvulla syntyneen tuuksalaisen isoäiti. Hän on syntynyt
+1900-luvun alussa ja kuollut jo kauan sitten. On kiinnostavaa, että
+hän oli kotoisin muualta Venäjältä Ural-vuoriston suunnalta. Ei ole
+tiedossa kuinka hän päätyi Karjalaan. Hänen lapsensa (informantit 3 ja
+4) näyttävät oppineen kotona sekä karjalaa että venäjää. Nähtävästi
+nyt tarkasteltuun tässä naapurustossa asuvaan osaan perhettä ei ole
+naitu venäjänkielisiä tämän jälkeen. Toki erityisesti suurperheen
+kaupunkiin muuttaneet jäsenet ovat naineet ihmisiä eri etnisistä ja
+kielellisistä taustoista. Verkostossa on myös keskellä yläreunassa
+yksi suomalainen sotilas, joka ei ole sodan jälkeen ollut yhteisössä
+läsnä. Tämä tuntuu melko yleiseltä.
+
+Kielenvaihto on edennyt siinä määrin, että 1970-luvun loppupuolella
+syntynyt informantti käyttää ainoastaan venäjää. Hänen joitain vuosia
+vanhempi vaimonsa puolestaan on aktiivinen karjalan puhuja. Tämä
+pariskunta on nyt tarkastellun verkoston keskiössä, ja ero heidän
+kielenkäytössään kuvaa myös noina vuosikymmeninä kielen omaksumiseen
+tullutta tapauskohtaista vaihtelua. Molempien puolisoiden vanhemmat
+ovat kotoisin Tuuksesta ja vaimon äiti asuu samassa
+naapurustossa. Informantti 1 luonnehtii miehensä etnistä ryhmää hyvin
+vaihtelevalla tavalla heiluen karjalaisten ja venäläisten viittausten
+välillä. Haastattelun loppupuolella hän kertoo miehen olevan
+karjalainen, sillä hänen vanhempansa ovat karjalaisia. Mies ei hänen
+mukaansa osaa karjalaa, mutta ymmärtää sitä.
+
+Myöhemmin haastateltiin edellisen informantin miehen kahta
+setää. Toinen heistä on ollut pitkiä aikoja poissa Tuuksen kylästä,
+mutta asui siellä nuorempana ja on palannut eläkkeelle jäätyään. Hän
+piti veljensä poikaa karjalan puhujana, sillä hän muisti puhuneensa
+aina karjalaa hänen kanssaan hänen ollessaan lapsi. Hänen muutettuaan
+takaisin Tuukseen kontakti veljenpoikaan näyttää rajoittuvan
+erilaisiin sukujuhliin ja satunnaisiin tapaamisiin. Setä itse edusti
+50-luvulla syntynyttä sukupolvea, joka on oppinut karjalaa ennen
+venäjää. Myös eräs naapureista tunsi heidät hyvin, ja arveli heidän
+puhuvan karjalaa keskenään.
+
+Mies ja hänen puolisonsa ovat syntyneet 70-luvulla, mutta edustavat
+hyvin erilaisia skenaarioita kielten omaksumisen suhteen. Vaimo
+kuvailee koululuokkansa kielenkäyttöä seuraavalla tavalla:
+
+Näyte 16. Informantti 257, nauha: 58, [00:54:08]. 16.5.2012
+
+Nytkin naapurustossa asuu kolme naista, joilla on samanikäisiä lapsia
+ja jotka ovat käyneet koulua samaan aikaan. Heitä kaikkia ei ole
+haastateltu, mutta he ovat edellisen informantin kertoman perusteella
+omaksuneen tavan käyttää karjalaa keskenään jo kouluaikanaan. He
+käyttävät omien sanojensa mukaan keskenään sekä karjalaa että venäjää,
+suosien karjalaa. On oltava varovainen tulkittaessa ihmisten omia
+arvioita kielenkäytöstään, mutta tämä sama kuvaus tuli itsenäisesti
+useammalta taholta. Toisaalta erään samaa ikäluokkaa edustaneen naisen
+äiti kuvaili tyttärensä kielenkäyttöä siten, että he olisivat alkaneet
+käyttää päiväkodissa karjalaa keskenään. Tämä ajoittuu siis 70-luvun
+loppuun.
+
+Samaa ikäryhmää edustavast informantin miehestä ei kuitenkaan ole
+tullut karjalan aktiivipuhujaa. Vaatisi paljon yksityiskohtaisempaa
+aineistoa ja sen analyysia sanoa mistä tämä johtuu, mutta muun
+aineiston valossa 70-luku näyttää ylipäätään eräänlaiselta
+vedenjakajalta karjalan aktiivipuhujien ja passiivisesti kieltä
+osaavien välillä. Miehen isoäiti kuoli hänen ollessaan pieni. Tämä on
+voinut olla tärkeää, sillä myöhemmin esittelemieni verkostojen
+perusteella isovanhempien rooli kielen välittymisessä on usein ollut
+ratkaiseva. Muistutan, että toinen isoäiti oli Uralilta. Toisaalta
+hänen setänsä ovat oppineet 50-luvulla kasvaessaan sekä karjalaa että
+venäjää jo pienestä lähtien, mikä viittaa kielenvaihdon syystä tai
+toisesta edenneen nopeammin tässä perheessä.
+
+Nyt tarkastelemallani pariskunnalla on pieni lapsi, jolle puhutaan
+pääasiassa venäjää. Äiti on ainoa henkilö, joka puhuu lapselle
+karjalaa. Karjala ei ole varsinainen kotikieli, vaan äiti käyttää sitä
+yksittäisissä tilanteissa lapsen kanssa. Itse karjalaisessa
+ympäristössä kasvanut isoäiti puhuu lapselle venäjää, sillä lapsen isä
+on venäjänkielinen ja kotikieli täten venäjä. Hänen antamansa kuvaus
+perheen kielenkäytöstä täsmää yksityiskohdissaan äidin kertoman
+kanssa:
+
+Näyte 17. Informantti 296, nauha: 77, [00:34:15]. 16.5.2012
+
+Tyttären kuvaus toistaa tämän puheen tyylin osalta, mutta on
+huomattavasti vähättelevämpi suhteesta käytettyyn karjalan määrään:
+
+Näyte 18. Informantti 257, nauha: 58, [00:43:18]. 16.5.2012
+
+Lapselle siis puhutaan karjalaa, mutta pääasiallinen kodin käyttökieli
+on venäjä. Olen merkinnyt aiempaan domeenikaavioon tämän informantin
+kohdalle, että lapselle hän puhuu sekä karjalaa että venäjää, koska ei
+ole olemassa konkreettista tietoa siitä, millaisissa osuuksissa
+mitäkin kieltä käytetään. Informantin kertoma viittaa siihen, ettei
+lapselle puhuta karjalaa määrätietoisesti tai jatkuvasti.
+
+Esittelin aiemmin etnisen tai kielellisen ryhmän määrittelyyn
+liittyvää ongelmaa. Tällaiset määrittelyvaikeudet ovat jatkuvasti
+läsnä aineistossani. Esimerkiksi alla edellä siteeraamani informantti
+2 kuvaa miehensä etnistä ryhmää. Tästä tulee esiin etnisyyden
+tilanteisuus.
+
+Näyte 19. Informantti 257, nauha: 58, [00:10:25]. 16.5.2012
+
+Rivillä 7 informantti kuvaa aviomiestään venäläiseksi. Siirryin tämän
+jälkeen kyselemään informantin puolison vanhemmista. Rivillä 13
+informantti kertoo heidän olevan karjalaisia, mielipide, jota
+perustellaan tai vahvistetaan heidän kielitaidollaan. Jatkan kyselyä
+heistä, mutta rivillä 12 informantti palaa keskustelussa taaksepäin
+aviomieheensä. Hän korjaa miehensä olevan karjalainen, mutta
+huomauttaa, ettei tämä osaa puhua karjalaa. Varmistan rivin 18
+kysymyksellä tarkoittaako hän nimenomaan miestään. Informantti vastaa
+tähän ja jatkaa pienen hiljaisuuden jälkeen rivillä 20, että mies on
+karjalainen, koska hänen vanhempansakin ovat.
+
+Isoäiti valittaa perheen muuttuvan venäläisemmäksi, kun sukuun naidaan
+niin paljon venäläisiä. Tytär itse toistaa tämän kuvauksen lähes
+sanasta sanaan. Arvio ei ole siinä mielessä mitenkään ehdoton, että
+nähdäkseni perheeseen ei ole juurikaan naitu venäläisiä. Silti ajatus
+venäläistymisestä liittyy konkreettisiin kielivalintoihin. Myös äiti
+käyttää lapsen kanssa enemmän venäjää kuin karjalaa, vaikka pitää
+karjalan puhumista tärkeänä. Tässä on mielestäni esimerkki
+tapauksesta, jossa nytkin 2010-luvulla karjalan kielen transmissio
+pienelle lapselle olisi täysin mahdollista. Lähipiirin verkostossa ja
+ydinperheenkin sisällä on karjalaa osaavia ihmisiä. Ympärillä on myös
+ihmisiä, jotka haluaisivat lapsen oppivan karjalaa. Tilanne on
+verrattavissa moniin muihin perheisiin. Se osoittaa kielen
+transmission lähtökohtien olevan olemassa vielä hyvin kauan
+kielenvaihdon alkamisen jälkeen. Luonnollisesti on mahdotonta sanoa
+mitään lapsen tulevasta kielitaidosta, mutta käytännössä kaikki
+elementit kielen oppimiselle ovat olemassa. Suurempi ongelma on
+kielenvaihdon eteneminen muussa yhteisössä. 2010-luvulla syntyneellä
+karjalaa puhuvalla tulee olemaan hyvin vähän mahdollisuuksia käyttää
+kieltä omanikäistensä kanssa, sillä tällä hetkellä koulua käyvät
+1990-luvulla syntyneet eivät näytä käyttävän sitä
+keskenään. Samanlaisen kuvauksen antoi 1980-syntynyt informantti
+kertoessaan omasta ystäväpiiristään lapsuudessa. On myös edetty
+pisteeseen, jossa 2000-luvulla syntyneiden lasten isovanhemmat ovat
+tottuneet puhumaan lapsille vain venäjää. Näin ollen välttämätön ehto
+sukupolvia yli hyppäävälle kielen transmissiolle tuntuu olevan
+katoamassa.
+
+### Verkosto Komi 1: Nopea kielenvaihto
+
+Tämä 1960-luvun alussa syntynyt nainen edustaa kielenvaihdon tyyppiä,
+jossa vanhimmat lapsista ovat oppineet komia, mutta muut
+eivät. Kielenvaihto ei ole erityisen varhainen, mutta sen nopeus on
+erittäin huomionarvoinen. Kieltä on vaihdettu käytännössä yhdessä
+sukupolvessa. Vanhin lapsi on syntynyt 1980-luvun
+alussa. Haastattelussa oli läsnä Koigortissa asuva kouluikäinen
+lapsenlapsi, joten yksittäiset haastattelun aikana tapahtuneet
+vuorovaikutustilanteet antavat lisätietoa kielenkäytöstä.
+
+Informantin mies on paikallinen komi. Informantti kertoi, että miehen
+isovanhempien joukossa on ollut puolalainen. Tämä liittyy edelliseen
+esittelemääni verkostoon, jossa karjalaiseen perheeseen oli varhain
+naitu yksittäinen henkilö Uralilta. Taaskaan tämä ei näytä laukaisseen
+kielenvaihtoa, sillä kotikielenä on aina ollut komi. Informtti
+kuvailee, kuinka lasten kasvaessa myös venäjän käyttö on
+kasvanut. Tämä muutos tuli esiin selkeästi Tuuksen domeeneja
+tarkasteltaessa. Informantin mukaan lapsista kaksi vanhinta osaa
+komia, mutta nuoremmat eivät. Muistutan, että myös tämä oli erittäin
+yleinen malli. Lapsenlapsia on useampia, eivätkä hekään informantin
+mukaan osaa kuin venäjää. Syynä on hänen mielestään, etteivät lapset
+halua oppia komia. Seuraavassa on kaksi otetta haastattelusta. Kaikki
+puheenvuorot ovat haastattelijan ja informantin välisiä, mutta rivien
+1, 2 ja 5 puheenvuorot on kohdistettu lapselle. Lapsi itse ei sano
+sanaakaan missään vaiheessa.
+
+Näyte 20. Informantti 294, nauha 75, [00:08:19]. 4.7.2012.
+
+Rivillä 2 informantti vastaa kysymykseen lapsen puolesta ja käskee
+häntä venäjäksi vastaamaan, ettei osaa komia. Informantti jatkaa,
+ettei lapsi opiskele tai ymmärrä komia. Hän sanoo, ettei itse pysty
+heitä, eli siis lapsia, opettamaan. Tämän jälkeen keskustelu siirtyi
+hetkeksi komin opetukseen. Myöhemmin haastattelu palaa lapsen
+kielitaitoon, siten että haastattelija leikkisästi sanoo lapselle,
+että kyllä mummon kanssa täytyy puhua komia. Informantti itse sanoo
+puhuvansa lapselle komia, vaikka on aiemmin itsekin kieltänyt hänen
+osaavan komia. Lopussa hän toteaa, että lapsi ei halua oppia komia.
+
+Informantti itse edustaa sukupolvea, jolla ei ollut komin opetusta
+koulussa. Hän ei osannut venäjää ollenkaan mennessään kouluun, vaan
+kuvaa naureskellen, ettei tiennyt edes kynien värejä
+venäjäksi. Informantin käsityksen mukaan vain vanhimmat lapset osaavat
+komia, eivät lapsenlapset osaa sitä ollenkaan. Haastattelussa on
+tilanteita, joissa lapsenlapsi ymmärsi kominkielisen keskustelun
+yksityiskohtia, sillä hän reagoi keskustelun sisältöön ja kulkuun. Jää
+arvailun varaan kuinka monella perheenjäsenellä on tällaista
+huomaamatta jäävää passiivista kielitaitoa, mutta nyt verkoston
+venäjänkielisyys ei varsinaisesti kohtaa oikean kielitaidon
+kanssa. Kyseessä on esimerkki nopeasta kielenvaihdosta, sillä
+käyttökieli on vaihtunut yhdessä sukupolvessa. Tällainen tulkinta on
+yksinkertaistava, mutta ei ainoastaan asiaa tarkastelevan tutkijan
+osalta. Myös kielenvaihtoon osallistuvat ihmiset arvioivat
+tiedostamattaan tilanteen virheellisesti. Myöhemmin haastattelussa
+informantti nostaa esiin vankan uskonsa komin kielen tilanteen
+paranemisesta tulevaisuudessa. Erityisesti hän korosti, että kieltä
+opetetaan ja käytetään koulussa. Ajatus lasten haluttomuudesta oppia
+komia toistui vielä samassa haastattelussa. Tämä on läsnä myös
+Karjalassa. Informantti selittää kielen oppimista henkilökohtaisena
+valintana. Se puhuu, joka haluaa. Jää tietysti epäselväksi ja tämän
+tutkimuksen ulkopuolelle, millainen psykologinen prosessi tässä on
+käynnissä ihmisten arvioidessa tilannetta.
+
+### Verkosto Komi 2: Kielen lateraalinen transmissio
+
+1940-luvun lopulla syntyneen informantin tapausta on mielestäni syytä
+käsitellä yksityiskohtaisemmin, sillä hän edustaa toisen samaan aikaan
+syntyneen informantin kanssa melko poikkeuksellista tyyppiä. He ovat
+molemmat oppineet komia muutettuaan Koigortiin 1950-luvun puolessa
+välissä. Käsittelin aiemmin kursorisesti tämän tiedon merkitystä
+Koigortin kieliolojen kuvaamiselle tuolla vuosikymmenellä, mutta
+tarkastelen nyt yksityiskohtaisemmin komin kielen välittymistä
+lapsille tämän informantin sukupuun sisällä.
+
+Malli on paralleelinen ensimmäisen Tuuksesta esittelemäni verkoston
+kanssa. Isovanhemmat ovat kotoisin Koigortista, mutta vanhemmat ovat
+muuttaneet täältä pois venäjänkieliseen ympäristöön. Vanhemmat ovat
+puhuneet sekä informantille että toisilleen venäjää, mutta informantti
+itse on oppinut komia pienenä vielä kielen äidinkieliselle oppimiselle
+herkässä iässä. Tähän liittyy vanhempien muutto takaisin Koigortiin
+hänen ollessaan pieni. Muiden lasten kanssa on leikitty komiksi myös
+koulun yhteydessä. Esittelin aiemmin tämän informantin kuvausta
+koulukielestä sivulla X. Hänen vaimonsa on kotoisin Koigortista, mutta
+myös he ovat puhuneet keskenään venäjää. Tässä näkyy kodista tuttujen
+kielenkäytön mallien kopioituminen omaan perheeseen.
+
+Hänen lapsensa ovat silti oppineet komia. En tiedä heidän tarkkaa
+ikäänsä, mutta heidän voi olettaa syntyneen 1960–1970
+-luvuilla. Heidänkin tapauksessaan kieli on opittu jostain muualta
+kuin kotoa, sillä tätä domeenia kuvataan yksiselitteisesti
+venäjänkieliseksi. Informantin vanhempien käyttäessä venäjää
+kotikielenä jäävät vaihtoehdoiksi vaimon vanhemmat ja lasten oman
+ikäluokan ystävät. Kaikki kielen transmissio ei tapahdu sukupolvien
+välillä, vaikka sitä aina korostetaankin kielenvaihdon ja
+kaksikielisyyden tutkimuksessa. Myös komia paljon käyttävissä
+perheissä lapset ovat jo kauan oppineet sujuviksi venäjän puhujiksi
+muualla kuin kotiympäristössä. Vastaava malli voi olla hyvin yleinen
+myös vähemmistökielten kohdalla sellaisissa tilanteissa, joissa
+vähemmistökieli on käytännössä vielä enemmistökielenä paikallistason
+yhteisöissä.
+
+Haastattelun aikana paikalla kävi myös informantin veljen tytär. Veli
+on jo kuollut, mutta oppi komia samalla tavalla kuin informantti
+itsekin. Hänen puolisonsa oli tataari ja heidän lapsensa ei osaa
+komia. Lapsenlapsista ei ole tietoa, eikä informantillakaan ole
+lapsenlapsia haastattelun perusteella, joten heidän kielitaidostaan ei
+voi sanoa mitään. Venäjän oltua perheen kotikielenä jo kahden
+sukupolven ajan olettaisi näin olevan myös kolmannen ja neljännen
+sukupolven kohdalla. Toisaalta toinen lapsista asuu muualla Komin
+tasavallassa, joten kielen transmission kulku ei ole varsinaisesti
+enää suoraan kytköksissä Koigortin tilanteeseen. Ihmisten muuttaessa
+yhteisöstä toiseen he kantavat mukanaan muualta omaksuttuja
+käyttäytymismalleja, joiden ei voi olettaa katoavan minnekään uuteen
+yhteisöön sosialisoituessa.
+
+Haastattelin aiemmin myös tämän informantin lähistössä asuvaa
+setää. Hän on syntynyt 20-luvun lopulla, joten hän edustaa hieman
+vanhempaa sukupolvea. Hän on mennyt naimisiin Penzan alueelta kotoisin
+olevan venäjänkielisen naisen kanssa, joka on oppinut ymmärtämään
+komia Koigortissa asuessaan. Kotikieli on ollut aina venäjä. Heillä on
+yksi lapsi, joka osaa myös komia. Hän on muuttanut kauan sitten
+Syktyvkariin ja hänen miehensä on venäjänkielinen eikä ymmärrä
+ollenkaan komia. Heillä on kaksi lasta, joiden kielitaidosta ei ole
+tietoa. Joka tapauksessa tässä toistuu paralleelisena toisen
+informantin haastattelusta noussut kuva, jossa kotikielen vaihtuminen
+ei vielä estänyt komin omaksumista.
+
+Informantti osaa lukea komia hyvin. Hän ei varsinaisesti lue mitään,
+mutta mainitsee toistuvasti tämän tärkeänä osana
+kielitaitoaan. Informantti korostaa, että hänen lapsensa eivät osaa
+lukea tai kirjoittaa komia, ainoastaan puhuvat sitä. Tämä on
+mielestäni erittäin tärkeä yksityiskohta.
+
+Tähän verkostoon kuuluu myös naapurissa asuva iäkäs kobralainen
+mies. Hän on syntynyt 1930-luvulla ja oppi venäjää vasta
+aikuisiällä. Hänen lapsensa ja lapsenlapsensa osaavat komia, mutta
+puhuvat kaikki myös venäjää. Hän kuvaili lastenlastensa kielenkäyttöä
+seuraavalla tavalla:
+
+Näyte 21. Informantti 40, nauha 147. [00:47:05]. 1.7.2013
+
+Voidaan olettaa, että isoisällä on ollut rooli lastenlasten
+komintaidon kehittymisessä. Tästä on jo ollut hyvin monta esimerkkiä
+aiemmin. Tietyt ikäryhmät alkavat suosia venäjää omana
+käyttökielenään, mutta ajoittain he ovat tekemisissä myös ihmisten
+kanssa, jotka suosivat vähemmistökielen käyttöä. Kaikkien osatessa
+molempia kieliä ei kielivalinta ole kuitenkaan koskaan itsestään
+selvä, nähtäväst näin on erityisesti tilanteissa, joissa henkilöt
+eivät ole jatkuvasti vuorovaikutuksessa, eivätkä kielellisen valinnan
+mallit näin ollen vahvistu ja toistu jatkuvasti. Eräs grivalainen
+nainen kommentoi omia kielivalintojaan alla olevalla
+tavalla. Keskustelu liittyi liittyi hänelle tuttuun koigortissa
+asuvaan mieheen:
+
+Näyte 22. Informantti 77, nauha 408 [00:09:06]. 6.7.2012.
+
+Nämä kaksi informanttia siis ottavat itse roolin komin kielen
+käyttäjinä yhteisössä. Vastaavia esimerkkejä löytyy vähemmän
+Karjalasta, omaan aineistooni niitä ei näytä sattuneen
+ollenkaan. Tästä ei voi tietenkään päätellä mitään, mutta Koigortissa
+tällainen diskurssi vaikuttaa sinällään yleiseltä.
+
+### Verkosto Komi 3: Potentiaalinen kielen säilyminen 2010-luvulla
+
+Tätä nuoren naisen kanssa tehtyä haastattelua ei ole nauhoitettu ja se
+on muutenkin suppea, mutta tästä huolimatta se on yksi harvoista
+kattavammista nuorten kanssa tehdyistä haastatteluista. En ole tehnyt
+siitä erikseen kaaviota, sillä siinä olisi vain yksittäisiä
+henkilöitä. Haastattelua tehtäessä paikalla oli kaksi muutakin nuorta
+Koigortissa asuvaa tyttöä, iältään he olivat 17- ja 20
+-vuotiaita. Informantilla on muutaman vuoden ikäinen tytär, joten
+hänen vertaamisensa karjalaiseen verkostoon 2 on hyvin
+tarkoituksenmukaista. Hänen aviopuolisonsa suku on kotoisin Arkangelin
+oblastista. He ovat venäläisiä, mutta asuivat Važjun
+metsätyötaajamalla. Edellä esittelemässäni verkostossa oli myös läsnä
+metsätyötaajamien venäläistävä vaikutus. He ovat tavanneet
+Syktyvkarissa ja muuttaneet joitain vuosia sitten Koigortiin. Mies
+ymmärtää jonkin verran komia. Hänen vaimonsa käyttää esimerkkinä
+käskyjä śet ’anna’ ja vaj ’tuo’. Keskenään he puhuvat venäjää, mikä on
+myös ainoa lapselle puhuttu kieli. Informantti kertoo pitävänsä
+tärkeänä, että lapsi oppii ensimmäiseksi kunnolla
+venäjän. Isovanhemmat puhuvat hänelle komia, joten hänen arvionsa
+mukaan lapsi tulee ymmärtämään komia aikuisena. Isovanhemmat ovat
+puhuneet omille lapsilleen venäjää, minkä johdosta on epäselvää,
+alkaisivatko he puhua komia lapsenlapselleen. Nähtävästi he tulevat
+puhumaan komia lapsenlapsen kuullen, mutta tämä on jo aivan toinen
+asia. Tilanne on siis päinvastainen kuin Tuuksesta esittelemässäni
+tapauksessa, jossa isovanhemmat eivät puhuneet lapselle
+karjalaa. Tilanne on siinä mielessä yhtenevä, että todellisuudessa
+lapsi ei välttämättä tule kasvamaan ympäristössä, jossa olisi
+mahdollista omaksua molemmat kielet kunnolla.
+
+Informantti toteaa yksiselitteisesti, ettei lapsi tule puhumaan komia
+itse. Tämä on hänestä riittävä kielitaito, jolla hän katsoo olevan oma
+arvonsa. Hän korostaa monta kertaa, että komin kieltä täytyy osata,
+kieli ei saa kadota. Perheessä ei tehty erikseen suunnitelmia lapsen
+kielenoppimisen suhteen. Komi kodin käyttökielenä ei tullut missään
+nimessä kysymykseen, sillä mies ei osaa sitä riittävästi. Informantti
+kertoi, ettei koskaan ajatellut puhua lapselle komia. Ilmeisesti
+mieskään ei ollut varsinaisesti komin kieltä vastaan, minkään
+konfliktoituneen tilanteen sijasta tässäkin nousevat esiin ihmisten
+käsitykset ja olettamukset. Olen otsikoinut tämän verkoston
+potentiaaliseksi kielen säilymiseksi, sillä tässä on olemassa
+tarvittavia elementtejä kielen oppimiselle. Silti yleinen tietämys
+kielenoppimisesta viittaisi siihen, että Venäjällä yleinen ajatus,
+jonka mukaan lapsen on syytä oppia ensin venäjä ja sitten
+vähemmistökieli, on hyvin riskialtis eikä sen voi varmuudella olettaa
+johtavan minkäänlaisen kaksikielisyyden kehittymiseen.
+
+Informantti toteaa erityisesti hänen Kobrasta kotoisin olevan isänsä
+puhuvan komia. Tämä on mielenkiintoinen yksityiskohta, sillä
+1990-luvun alkupuolella syntyneen komia hyvin osanneen informantin
+äidinpuoleiset isovanhemmat ovat Kobrasta kotoisin. Toisen
+1980-luvulla syntyneen informantin suku puolestaan on
+Grivasta. Edellisen esimerkin kohdalla kiinnitin huomiota vanhemmilta
+ja varhaisemmasta kieliyhteisöstä periytyviin kielenkäytön
+malleihin. Nähdäkseni on täysin mahdollista, että myös Kobran ja
+Grivan kylät olisivat omalta osaltaan olleet ohjaamassa kielenvaihdon
+kulkua Koigortissa. Vaikutus olisi ollut yksittäisen perheiden
+tasolla, mutta tällä voi olla laajempiakin seuraamuksia puhuttaessa
+satoja henkilöitä koskeneista muuttoliikkeistä pienellä
+alueella. Tämän informantin verkostoa tarkkailemalla paljastuu, että
+informantin omatkaan vanhemmat eivät ole koskaan puhuneet hänelle
+komia. Vanhemmat käyttävät komia keskenään, mutta lasten kanssa on
+käytetty venäjää. Näin ollen ei ole sanottua, että he käyttäisivät
+komia lapsenlapsenkaan kanssa.
+
+### Esimerkki kielen transmission katkeamisesta
+
+Karjalan kielen oppiminen näyttää nyt esittelemieni verkostojen
+perusteella katkenneen jo kauan sitten ja edenneen hyvin
+pitkälle. Lapset oppivat ja kuulevat karjalaa yhä, vaikka tämä ei
+oikeastaan nouse esiin sosiolingvistisissä haastatteluissa tai
+pintapuolisessa havainnoinnissa. Komissa tilanne on erilainen, mutta
+täälläkin kielen säilyminen tai katkeaminen näyttää jokaisen lapsen
+kohdalla olevan hyvin sattumanvaraista. Erityisen mielenkiintoisia
+ovat tapaukset, joissa kielenvaihdon rajapinta menee sisarussarjan
+sisällä. Näin oli laita ensimmäisenä esittelemäni komilaisen sukupuun
+kohdalla, minkä lisäksi ne ovat melko yleisiä kielenvaihdon rajalla
+olevissa ikäryhmissä domeenien analyysissa. Verkostoissa esittelemäni
+perheen kohdalla minulla ei ole tietoa tai tarkkaa kuvausta siitä,
+miksi vanhin tytär on oppinut komia. Nancy Dorian on esittänyt, että
+vanhimmat sisarukset tuovat koulun kautta enemmistökielisiä
+sosialisoitumisen malleja ydinperheeseen, mikä ei välttämättä johda
+vanhempien muuttuneisiin kielivalintoihin (Dorian 1981: 123). Jotain
+tällaista tapahtuu aivan varmasti Komissa ja Karjalassa, sillä saman
+perheen lasten kielitaito näyttää eroavan hyvin usein, mutta vanhimmat
+ikäryhmät käyttävät silti paljon komia ja karjalaa. Mekanismi ei voi
+siis olla mitenkään sattumanvarainen, ja seuraava esimerkki antaakin
+vain yhden mahdollisen mallin sille, miksi eri lasten kielitaito on
+kehittynyt niin eri tavoin.
+
+Tämän esimerkin taustalla on sukulaisen kertoma pidempi narratiivi
+veljensä lasten kielenoppimisesta. Liitän sen tähän, sillä siinä
+sanallistetaan tarkasti kielen välittymisen hauraus pitkälle
+edenneessä kielenvaihdon kontekstissa. Informantti on syntynyt
+1960-luvun alussa Grivassa, joten hänen kuvailemansa tilanne
+ajoittunee 60-luvun loppuun tai 70-luvun alkuun. Se vastaa nähdäkseni
+tarkoin aiemmin esittelemissäni sukupuissa ilmenevää kielen
+välittymisen katkeamista. Ei ole varsinaisesti oleellista, että
+kyseessä on juuri Griva näillä vuosikymmenillä, sillä samaa mallia
+seurannutta kielen siirtymisen katkeamista on tapahtunut sekä
+Karjalassa että Komissa 30-luvulta lähtien. Komissa näin tapahtuu yhä,
+jolloin ilmiötä on tarkasteltava kielen säilyttämisen tapauksena.
+
+Näyte 23: Informantti 291, nauha: 72 [00:19:07]. 9.7.2012.
+
+Informantti on aiemmin kuvaillut, kuinka monet nuoret eivät enää puhu
+komia, vaikka ymmärtävätkin sitä hyvin. Riveillä 2–3 hän kertoo omasta
+näkemyksestään, että lasten kyky puhua komia on kaikkein tärkein. Tämä
+taito säilyy myöhemmistä tapahtumista riippumatta. Tämän jälkeen hän
+alkaa kuvailla serkkunsa kielen oppimista. Riveillä 9 ja 29
+toistuvasti yhdistetään kaupunkilaisuus ja maalaisuus venäläisyyteen
+ja komilaisuuteen.
+
+Rivillä 23 hän kuvaa oman äitinsä, serkun tädin, roolia kielenkäytön
+mallin valinnassa. Hän oli erityisesti sanonut, että serkulle on
+opetettava komia. Nuorempaa sisarta ei enää lähetetty kylään
+kesäisin. Tämä on aiemmissa verkostoissa näkyvä taitekohta, sillä
+sisar ei osaakaan komia. Syyksi lapsen kylään lähettämättä
+jättämiselle mainitaan isoäidin ikä. Tilanne vastaa dynamiikaltaan
+aiemmin esittelemiäni, joissa vähemmistökieltä puhuneet isovanhemmat
+ovat asuneet samassa taloudessa lastenlasten kanssa, mutta heidän
+kuoltuaan yhteys vähemmistökieleen on katkennut. 1960-luvun alussa
+syntyneen informantin isoäiti edustaa väistämättä nyt tavoitettuja
+ikäryhmiä vanhempaa ikäluokkaa, 1900-luvun alussa syntynyttä, joten
+hänen kauttaan lähestytään aikaa, jolloin yksikieliset kominpuhujat
+olivat yleisempiä. Aiemmin esittelemässä karjalaisessa verkostossa 1
+oli samantapainen tilanne, että tätä samaa ikäluokkaa edustanut
+isoäiti hoiti kahdeksaa lapsenlasta itse, mutta vanhempana tämä työ
+siirtyi nuoremmille.
+
+Lasten lähettäminen maaseudulle kesäksi on yleinen käytäntö
+Venäjällä. Olen törmännyt sukukansa-alueilla työskennellessäni
+lukuisiin syihin tämän perinteen katkeamiselle. Isovanhempien
+vanhuuden tai kuoleman lisäksi tämä voi liittyä kylien fyysiseen
+tuhoutumiseen, sillä perinteisten talojen korkein mahdollinen ikä on
+noin sata vuotta. Näyttää myös yleiseltä, että hyvin nuorena saadut
+vanhimmat lapset viettävät enemmän aikaa maaseudulla kuin myöhemmin
+syntyneet, sillä vanhemmat ovat tällöin saattaneet lopettaa
+opiskelunsa ja vakiinnuttaa paikkansa työelämässä, jolloin lasten
+pitäminen kotona voi olla helpompaa. Joka tapauksessa jatkuessaan tämä
+käytäntö luo vähemmistökielisillä alueilla tilanteen, jossa
+kaupungissa venäjänkielisiksi kasvavat lapset viettävät pitkiä aikoja
+vähemmistökielisessä ympäristössä. On useita vaihtoehtoja sille, mitä
+tässä voi tapahtua. Olen hahmotellut seuraavat neljä skenaariota,
+joista kaikki tuntuvat mahdollisilta.
+
+* Lapsi oppii puhumaan ja ymmärtämään vähemmistökieltä
+
+* Lapselle puhutaan vähemmistökieltä ja tämä oppii ymmärtämään sitä
+  (vaatii maaseudun asukkaiden enemmistökielen taitoa lapsen puhuessa
+  tätä kieltä)
+
+* Lapselle aletaan puhua enemmistökieltä (voi ylläpitää lapsen
+  passiivista kaksikielisyyttä, jos muu yhteisö jatkaa
+  vähemmistökielen käyttämistä keskenään)
+
+* Koko yhteisö vaihtaa kielensä enemmistökieleen (mahdollistaa
+  monoglottien kasvamisen)
+
+Haluan korostaa sitä, että sekä karjala että komi ovat Tuuksessa ja
+Koigortissa yhä sellaisessa tilanteessa, joka ei ole saavuttanut tasoa
+neljä. Tämä taso on läsnä diskursiivisesti ja tulee esiin puhuttaessa
+yhteisön muuttumisesta, nykyisistä nuorista tai yleisestä
+kielenkäytöstä kylässä. Oma kielenkäyttö saatetaan kuvata hyvinkin
+vähemmistökieliseksi, kuten domeenien tarkastelusta näkyi vanhempien
+ikäkohorttien kohdalla. Iäkkäimmät ihmiset käyttävät karjalaa ja komia
+eri ympäristöissä niin säännöllisesti, että lapsen on mielestäni
+mahdotonta kasvaa näissä yhteisöissä kuulematta ja jollain tavalla
+oppimatta näitä kieliä. Arvelen, että nyt tutkittujen kylien päällisin
+puolin yksikielisillä venäjänpuhujilla olisi jonkinlaista karjalan-
+tai kominkielistä kompetenssia, josta voisi saada tietoa ja parempia
+näytteitä, mutta nyt tehdyt lyhyet kenttätyöjaksot eivät ole
+mahdollistaneet näin syvää vuorovaikutusta paikallisyhteisön
+kanssa. Voiko olla niin, että varsinaisen kompetenssin puutteen
+sijasta enemmistökieltä suosivat kielenkäytön valinnat liittyvät
+johonkin aivan muuhun kuin yhtäkkisesti hävinneeseen kielitaitoon?
+Komista ja Karjalasta nousee kuva, että kieltä joko puhutaan tai ei
+puhuta, mutta kieliopillisesti virheellisten varianttien sijaan
+puhujien käytössä on venäjään eri tavoin yhdistyviä sekakoodeja.

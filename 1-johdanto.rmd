@@ -1,0 +1,634 @@
+# Johdanto
+
+Tämä on täydennetty versio Niko Partasen pro gradu -tutkielmasta.
+[@partanen2013b].
+
+## Alkusanat
+
+Tässä tutkimuksessa käsittelen kielenvaihtoa Komissa ja Karjalassa
+kahden tapaustutkimuksen kautta. Tutkimuksen lähtökohtana on tieto
+siitä, että Venäjällä puhuttujen suomalais-ugrilaisten kielten
+puhujamäärät ovat pienentyneet viime vuosisadan aikana. Haluan
+tutkimuksella tuoda lisätietoa siitä, millaisella mekanismilla tämä on
+tapahtunut ja mikä on sen ajallinen ulottuvuus. Katson, että tällaisia
+tapaustutkimuksia on tehty melko vähän, joten lisätutkimukselle on
+tarvetta. 
+
+Työ pohjautuu kahdesta paikallisyhteisöstä kerättyyn
+haastatteluaineistoon ja osallistuvaan havainnointiin. Aineisto on
+kerätty Helsingin ja Syktyvkarin yliopistojen opiskelijoiden
+kenttätyöharjoittelun yhteydessä. Niin laajaan aiheeseen kuin
+kielenvaihto voi soveltaa hyvin erilaisia tutkimusmetodeja. Olen itse
+valinnut työkaluikseni ikäkohorttien vertailun sekä domeenien ja
+kielellisten verkostojen analysoinnin. Nämä metodit hyödyntävät
+aineistossa usein toistuvia tietoja ja antavat ajallisen
+läpileikkauksen kylän kielenkäytön kehittymiseen ja
+muutokseen. Tutkimus koostuu siis kahdesta tapaustutkimuksesta. Joshua
+Fishman on jo varhain korostanut, että vaikkei kielenvaihdon ja kielen
+säilymisen tutkimisen tarvitse rajoittua tapaustutkimusten vertailuun,
+on tämä lähtökohtana silti alalle hyvin keskeinen. Hän katsoo olevan
+erilaisia vertailevien tapaustutkimusten tyyppejä. Oma tutkimukseni
+vastaa tyyppiä, jossa eri kieliä verrataan samantapaisissa
+ympäristöissä. [@fishman1971a, s. 327–330]. Luonnollisesti tavoitteena on
+jatkaa työtä tulevaisuudessa muihin yhteisöihin laajentamalla. Fishman
+on myöhemminkin korostanut, että yksinkertaisesti selittävä teoria
+kielenvaihdosta voi perustua ainoastaan riittävän suureen määrään
+erillisiä tapaustutkimuksia [@fishman2002a, s. 271–272].
+
+Esittelen ensiksi tarkat tutkimuskysymykseni. Selvitän tässä
+yhteydessä omat motivaationi aiheen käsittelylle ja tutkijan
+positioni, sillä nämä ovat olennaisia arvioitaessa tätä tutkimusta
+uralilaisten kielten kielisosiologian kontekstissa. Päätän
+johdantoluvun esittelemällä lyhyesti Karjalan ja Komin historiallista
+taustaa. Tämä on välttämätöntä, jotta tutkimuksen tuloksia pystyy
+suhteuttamaan kielenvaihdon mahdolliseen tilaan muualla Karjalassa ja
+Komissa.
+
+Aloitan aineistoni käsittelyn esittelemällä tarkat
+tutkimuskohteeni. Tämä osa pohjautuu jo monin tavoin itse
+haastatteluaineistoon, sillä tällaisten paikallisyhteisöjen historiaa
+ei välttämättä ole kirjoitettu sellaiseen muotoon, joka olisi suoraan
+tutkijan käytettävissä. Käytännössä kylän asukkaiden muistitieto voi
+olla paras lähde lähimenneisyyttä tutkittaessa. Käyn läpi
+yksityiskohtaisesti aineiston keruumetodit ja tavan, jolla se on
+arkistoitu. Tällaiseen laadulliseen tutkimukseen liittyvät
+olennaisesti eettiset kysymykset, joten selvennän aineistoluvussa myös
+oman kantani tähän. Eettisiin kysymyksiin ja suostumukseen on
+kiinnitetty hyvin paljoa huomiota koko tutkimusprosessin
+ajan. Informanttien anonymiteetin säilyminen onkin tutkimuksen
+keskeisiä huomionaiheita. Näin ollen kaikkia työssä esitettyjä
+vuosilukuja ja syntymäaikoja on karkeasti pyöristetty. Luonnollisesti
+tämä on pyritty tekemään sellaisella tavalla, joka ei ole
+merkityksellinen tutkimuksen tuloksille. Päätän aineistoluvun
+esittelemällä tarkemmin informanttejani. Tämä konkretisoi aineiston
+määrää ja laatua, mutta tuon samalla esiin aineiston ongelmia ja
+puutteita. Lähtökohtana on, ettei aineisto voi olla koskaan
+täydellinen. Tästä huolimatta tällainen tutkimusaineisto voi olla
+monin erilaisin tavoin hyvä tai huono, ja haluan nostaa esiin oman
+aineistoni erilaisia puolia.
+
+Tämän jälkeen käsittelen tutkimusmetodeitani. Aloitan tämän
+katsauksella vanhempaan tutkimuskirjallisuuteen. Tämä selventää niitä
+lähtökohtia ja esimerkkejä, joiden pohjalta olen itse
+työskennellyt. Rakenteeltaan metodiluku heijastelee itse
+analyysilukua, mutta sillä erotuksella, että metodi ikäryhmien
+vertailu on koko ajan käytössä sekä domeenien että verkostojen
+analysoinnissa. Tämän lisäksi täydennän sekä domeeneja että
+kielellisiä verkostoja vertaamalla niitä haastatteluissa esiin
+nouseviin diskursseihin ja narratiiveihin. Näin ollen työssä on kahden
+varsinaisen metodin lisäksi muutama koko analyysia kannatteleva
+tarkastelutapa. Tutkimukseni loppuu johtopäätöksiin ja erillisiin
+ehdotuksiin jatkotutkimuksta kohtaan.
+
+## Tutkimuskysymykset
+
+Tutkimukseni tavoitteena on selvittää, minkälaiset kielelliset
+valinnat ja kielenkäyttöön liittyneet elämänvaiheet ovat johtaneet
+vähemmistökielten uhanalaistumiseen ja millaisten tekijöiden
+yhteisvaikutus on saanut aikaan kielen katkeamisen tai siirtymisen
+uusille sukupolville. Kielenvaihdolla tarkoitetaan prosessia, jossa
+tietyn kielen käyttö ja osaaminen vähenee, siten että kielen
+puhujamäärä laskee, useimmiten toisen hallinnollisesti tai
+sosioekonomisesti vahvemman kielen kasvaessa. Tämän lopputuloksena
+väistyvä kieli katoaa, jos kielenvaihto tapahtuu sen koko
+puhuma-alueella. Kielen säilyttämisellä puolestaan tarkoitetaan
+esimerkiksi kielen käyttöympäristöjen eli domeenien ja kielitaidon
+suhteellista kestävyyttä, sitä, että jotkin henkilöt jatkavat kielen
+käyttämistä eri ympäristöissä muun yhteisön vaihtaessa kieltä
+[@hornbergerEtAl2004a]. Tätä tutkitaan usein
+tarkastelemalla domeeneja ja tilanteita, joissa kieltä ei enää käytetä
+tai joissa se on korvautunut toisella kielellä [@pauwels2004a, s.
+719]. Teen itsekin näin. Kiinnostuksen kohteenani on enemmän
+kielenvaihdon prosessi kuin mikään yksittäinen kielenvaihdon
+piste. Tällaisen painotuksen voi katsoa olevan pelkän kielenvaihdon
+asteen selvittämistä tuloksellisempi [@grenoble2011a, s. 38; @gal1979a, s. 3].
+Ilman laajempia tutkimuksia on perusteetonta julistaa yhteisöjen
+olevan millään tietyllä kielenvaihdon asteella, erityisesti, kun
+prosessin etenemisen mallista ei vaikuta olevan vielä tarkkaa
+tietoa. Hyvin pienten kielten tilaa voi olla helpompi kuvata, mutta
+suurten kielten tilaa arvioitaessa on mielestäni pakko olla erittäin
+varovainen. Yleisesti ottaen tiedetään, että lapset eivät ilmeisesti
+opi karjalaa laajamittaisesti yhdessäkään karjalaisessa yhteisössä
+[@pasanen2006a, 121]. Tämä tarkoittaa sitä, että kyseessä olisi
+kaikkien ikäluokkien yleisesti osaama kieli, jota pienetkin lapset
+käyttäisivät keskenään. Tällainen väite ei missään nimessä tarkoita
+sitä, etteivätkö lapset yksittäisissä perheissä voisi osata
+karjalaa. Toisaalta on viitteitä siitä, että komin kieli on joissain
+kylissä yhä vallalla oleva käyttökieli [@leinonen2006a, 243]. Ei ole
+kuitenkaan mitään tietoa siitä, mikä on kielen säilymisen alueellinen
+ulottuvuus Komissa, ja kuinka yhteisöt eri puolilla kielen
+puhuma-aluetta eroavat toisistaan. Tutkimukseni perusolettamus on,
+että kielenvaihdon eteneminen näkyy epäilemättä hyvin erilaisilla
+tutkimusmenetelmillä. Esimerkiksi Teksasin tšekkiläisten kielenvaihdon
+etenemistä on seurattu hautakivien muistokirjoitusten tekstejä
+ajoittamalla [@coxEtAl2010a]. Toisaalta tutkimustapa voi heijastaa
+ilmiötä vain tietyiltä osin tai tuloksessa voi olla ajallinen viive,
+joka ei ehkä tule esiin muuten kuin eri metodeja yhdistelemällä. Tätä
+tiettyyn metodiin piilevää viivettä on arvioitava kunkin metodin
+kohdalla erikseen.
+
+Tutkin sitä, millaisia motivaatioita ja mahdollisuuksia
+vähemmistökielen puhujilla tällä hetkellä on säilyttää
+vähemmistökieltä. Motivaatio ja käytännön mahdollisuudet eivät
+välttämättä kohtaa toisiaan, mutta ainakin on syytä pyrkiä kuvaamaan,
+millaista tämä mahdollinen kohtaamattomuus on. Näin ollen keskeisiä
+tutkimuskysymyksiä ovat:
+
+* Kielenvaihdon vaiheiden rekonstruointi kyläkohtaisesti
+
+* Kielenvaihdon mekanismin ja etenemisen kuvaaminen tutkittavissa
+  yhteisöissä
+
+* Kielenkäytön domeenien muutoksen arviointi
+
+* Kieltä vaihtaneiden ja säilyttäneiden kielellisten verkostojen
+  mallinnus
+
+* Erojen ja yhtäläisyyksien asettaminen tasavaltojen kontekstiin
+
+* Sosiolingvistisen kenttätyöaineiston käyttömahdollisuuksien ja
+  kehittämistarpeiden arviointi
+
+Kielenvaihdon ajatellaan usein etenevän epävakaan kaksikielisyyden
+kautta [@austinEtAl2011a, 1]. Näin ollen kielenvaihdon kulun
+rekonstruointiin kuuluu mielestäni oleellisesti yhteisön
+kaksikielisyyden kehittymisen mallintaminen. Metodologisesti on
+tarpeellista erottaa toisistaan kaksikielisyyden kehittymiseen
+johtaneet syyt niistä, joiden takia tämä monikielisyys on jatkunut tai
+hävinnyt [@lieberson1970a, 14]. Tutkimuksessani otan tämän jaon
+huomioon. Kielenvaihdon etenemistä kuvataan usein Einar Haugenin
+kehittämällä mallilla (ks. [haugen1953a, 370]). Tämän mukaan
+kielenvaihto etenisi seuraavalla tavalla:
+
+    A > Ab > AB > aB > B
+
+A kuvaa väistyvää ja B yleistyvää kieltä. Väliin oletetaan kolme
+kaksikielisyyden vaihetta, joissa dominoiva kieli vaihtuu
+vähemmistökielestä enemmistökieleksi. Mallin keskelle oletetaan tila,
+jossa kielitaito olisi tasapainoinen molemmissa kielissä. Haugen itse
+määrittelee kaksikieliseksi henkilön, joka osaa tuottaa mielekkäitä
+lauseita toisella kielellä äidinkielensä lisäksi [@haugen1953a, s. 7].
+Tällainen lavea määritelmä on monin tavoin ongelmallinen, mutta
+selkeästi kaksikielisyyden tutkijat ovat liikkuneet viime aikoina pois
+tiukasta kahden kielen täydellistä osaamista vaativasta
+kaksikielisyyden määritelmästä: kaksikielisyys on nähtävä jonain
+muuna, kuin kahden eri kielellisen kompetenssin summana, länsimainen
+ajatus yksikielisyydestä ei ole ainoa vaihtoehto [mohantyEtAl1997a, 230]. 
+Käsitteenä kieli tai kielitaito ovat hyvin pitkälle
+problematisoitavissa, ja esimerkiksi Jan Blommaert ja Ben Rampton
+kuvailevat kieltä, äidinkieltä ja natiivipuhujaa ideologisiksi
+konstruktioiksi, jotka sopivat tutkimuksen kohteiksi, mutta eivät
+sosiolingvistin varsinaisiksi työkaluiksi [@blommaertEtAl2011a,
+5]. Blommaertin usein esittämää ajatusta modernin ajan
+superdiverssiydestä voi puolestaan tarkastella senkin kautta, että
+esimerkiksi Venäjän sukukansa-alueilla 1800-luku tai 1950-luku saattaa
+näyttää monikielisyyden tai monikansallisuuden huippuhetkeltä
+2000-luvun sijaan. En itse osaa sanoa kannatanko Blommaertin
+radikaalia ajattelutapaa, mutta sinällään tällaisia näkemyksiä on
+pakko ottaa huomioon.
+
+Vähemmistökieliä tutkittattassa edellä mainittujen lisäksi käsitteet
+kuten etninen ryhmä nousee jatkuvasti esiin. Erityisesti nuorten
+kielenkäyttöä tutkineen Ben Ramptonin mukaan viime vuosikymmeninä
+tutkijoiden käsitys etnisyydestä on muuttunut ja nykyään tällaisia
+kategorioita ei välttämättä voi nähdä itsestään selvinä tai
+pysyvinä. Käsitteiden kuten etninen ryhmä tai kieli ollessa vähemmän
+yksiselitteisesti tunnistettavia on samalla muuttunut vaikeammaksi
+kuvata tietyn joukon tapaa käyttää kieltä. [@rampton2006a, 18]
+
+Meksikossa puhuttuja zapoteekkikieliä tutkinut Mark Sicoli on
+huomauttanut, että kielenvaihto käsitetään usein kahden ideologian
+kautta. Ensimmäinen näistä liittyy ihmisten toimijuuteen. Siihen, että
+heidän valintansa perustuisivat tietoisiin päätöksiin ja
+laskelmointiin. Toinen puolestaan liittyy tapaan nähdä kaksikielisyys
+eräänlaisena välivaiheena yksikielisestä tilasta toiseen. [@sicoli2011a, 161).
+Pyrin ottamaan huomioon Sicolin ajatuksen yksilön
+toimijuudesta osana laajempia yhteisöllisiä käytänteitä, paikallista
+historiaa ja kulttuurisia malleja [@sicoli2011a, 173]. Ei voi olettaa,
+että tutkijoilla voisi olla taustatietoa tiettyjen paikallisyhteisöjen
+kaksikielisyyden asteesta tai tavoista eri aikoina. Tästä
+lähtökohdasta lähdin itsekin määrittelemään kielenvaihtoa hyvin
+varovasti, sillä monet sinällään yksinkertaiset määritelmät eri
+käsikirjoissakin sisältävät Sicolin mainitseman oletuksen
+toimijuudesta. Ei ole selvää, kuinka määritellä kielen puhuja tai
+etnisen ryhmän edustaja. Ihmisten toimijuus ei myöskään ole helposti
+arvioitavissa. On helppo sanoa ihmisten vaihtaneen kieltä, olleen
+opettamatta sitä lapsille tai jonkun jättäneen oppimatta
+sitä. Väittäisin kuitenkin tähän problematisointiin nojaten, etteivät
+tällaiset roolit välttämättä oikeasti kuvaa ihmisten toimijuutta
+kielenvaihdon aikana. Otan tämän huomioon analyysia tehdessäni ja
+tutkimuskysymyksiä aineistoon peilatessani.
+
+Työtä varten analysoimastani materiaalista muodostuu sosiolingvistinen
+aineistokorpus, jonka avulla työn tuloksia on mahdollista arvioida ja
+työstää eteenpäin uuden aineiston kertyessä. Tämä aineistokorpus
+liittyy laajemmin tavoitteeseeni kehittää sosiolingvististen
+kenttätöiden metodiikkaa ja järjestelmällisyyttä. Olen aiemmin
+soveltanut vastaavaa aineiston lajittelutapaa Vuokkiniemeltä ja
+Viteleeltä vuosina 2004 ja 2010 kerättyihin aineistoihin ja talvella
+2013 laajennan sen muun muassa Säämäjärven ja Lihoslavlin
+aineistoihin.
+
+## Tutkimuksen motivaatio
+
+Viimeisen kymmenen vuoden aikana Helsingin yliopistosta on tehty
+säännöllisesti kenttätyömatkoja Karjalaan. Tavoitteena on ollut
+perehdyttää opiskelijoita kenttätyömetodiikkaan ja rohkaista heitä
+jatkamaan itsenäistä työskentelyä. Kerätty aineisto on keskittynyt
+kielisosiologiaan ja paikannimistöön. Materiaaleja on käsitelty
+aikaisemmin, mutta kokonaan analysoimattomia aineistoja on vielä
+jonkin verran. Kattavampia raportteja ja analyyseja on tehty
+Vuokkiniemen ja Vitelen aineistoista (Kuokkala 2004; Kuokkala et
+al. 2004; Partanen 2013). Vien tätä tutkimusta eteenpäin vertaamalla
+kahta vuosina 2012 ja 2013 kerättyä aineistoa. Keräysalueet olivat
+Tuuksa Karjalassa ja Koigort Komissa. Tässä tutkimuksessa esittelemäni
+Koigortin aineisto on ensimmäinen tapaustutkimus kielenvaihdosta
+Komissa. Tämä kytkeytyy muissa Komin tasavallan osissa viime vuosina
+aloitettuun kielisosiologisen aineiston keräystyöhön. Aineistoilla on
+haluttu saada tietoa alueilla puhutuista kielistä ja siitä, kuinka
+niiden tilanne on eri aikoina muuttunut. Aineisto koostuu osittain
+strukturoiduista haastatteluista, joihin voi soveltaa erilaisia
+analyysimalleja. Tutkimus hyödyntää sekä nauhoitettuja haastatteluja
+että erilaisia paikan päällä tehtyjä muistiinpanoja.
+
+Molemmissa nyt tutkimissani yhteisöissä paikallinen
+suomalais-ugrilainen kieli on enenevissä määrin korvautunut venäjällä
+sekä perheiden että julkisten tilojen pääasiallisena
+käyttökielenä. Venäjä on virallinen hallinnon ja yhteiskunnan kieli,
+mutta paikallisilla kielillä on laillista asemaa ainakin
+virallisesti. Tässä mielessä kyseessä on klassinen kielenvaihdon
+asetelma, jossa voi olettaa esiintyvän muista
+vähemmistökieliyhteisöistä tuttuja ilmiöitä. Tällaisia ovat
+erikielisten domeenien muodostuminen, sukupolvelta toiselle välittyvän
+kielitaidon häiriintyminen, koodinvaihdon yleistyminen, eri kieliä
+yhdistelevien kielimuotojen synty sekä kontaktissa olevien kielten
+toisistaan eroava prestiisi. Lähden liikkeelle hypoteesista, että
+nuoremmat sukupolvet osaavat alueilla vanhastaan puhuttuja kieliä
+vanhempiaan huonommin. Toinen oletus on, että yhteisössä olisi kieltä
+eri tavoin osaavia henkilöitä.
+
+Tutkimuksessa hyödyntämäni ajattelutapa on syntynyt muun muassa Nancy
+Dorianin huomiosta, että tietyissä kielenvaihdon tilanteissa
+poikkeuksellista ei ole enää se, että kieli vaihtuu, vaan että tietyt
+yksilöt kaikesta huolimatta säilyttävät sitä. Vaikka kielenvaihtoa
+pois kymristä oli pohjustettu jo satoja vuosia sitten, löysi Dorian
+yhä yllättävän paljon kieltä osaavia ja käyttäviä henkilöitä. Myös hän
+kiinnittää huomiota varsinaisen päätöksen puuttumiseen – on hyvin
+vaikea väittää, että joku olisi valinnut vaihtavansa tai säilyttävänsä
+kieltä. (Dorian 1994: 116–117.) Käsittääkseni omaa työtäni vastaavissa
+tutkimuksissa informanteiksi on usein valittu kieltä vielä nykyään
+käyttäviä ja osaavia henkilöitä, mikä näkyy osittain myös omassa
+aineistossani. Toisaalta viime vuosien kenttätyömatkoilla on
+vahvistunut ajatus siitä, että yleensä haastateltujen kieltä osaavien
+lisäksi olisi välttämätöntä haastatella kaikkia paikallisyhteisön
+etnisiä ryhmiä ja ikäluokkia. Tämä tavoite ei vielä täysin toteudu
+tässä tutkimuksessa, mutta tulee eittämättä ohjaamaan tulevaa
+työtä. Monikielisiä yhteisöjä tutkittaessa on kysyttävä, onko
+tutkimusaihe välttämättä mikään tietty kieli, vai täytyisikö
+pikemminkin tarkastella koko yhteisössä tapahtuvaa
+kielenkäyttöä. Vaikka oma aineistoni on keskittynyt karjalaan ja
+komiin, ei muita paikallisia vähemmistökieliä kuten inkerinsuomea tai
+valkovenäjää ole lähtökohtaisesti suljettu tutkimuksen
+ulkopuolelle. Osa haastatteluista on tehty venäjäksi, sillä
+kielenvaihdon nykyisessä tilanteessa yhteisöihin kuuluu runsaasti
+kielenvaihdon jo läpikäyneitä henkilöitä, joita ei ole mielekästä
+sulkea tutkimuksen ulkopuolelle.
+
+Tuuksa ja Koigort valittiin tutkimuskohteiksi muun muassa sillä
+perusteella, että näillä alueilla ei ole tehty tutkimusta pitkään
+aikaan. Esimerkiksi laajoja kenttätöitä Karjalassa tehnyt Pertti
+Virtaranta ei koskaan käynyt Tuuksessa, vaikka hänen vuonna 1966
+tekemällään tutkimusmatkalla etnomusikologi Erkki Ala-Könni sattuikin
+vierailemaan tässä yhteisössä (Yli-Paavola 1993: 61). Myös Koigortin
+alueella puhuttu komin murre on historiallisesti erittäin tärkeä,
+eivätkä Syktyvkarin yliopiston opiskelijat olleet käyneet täällä
+aiemmin. Nyt keskenään vertailluiksi tutkimuskohteiksi ne
+valikoituivat siis jossain määrin sattumanvaraisesti, mutta aiempien
+tutkimusten perusteella ei ole syytä olettaa, että nyt käsitellyt
+yhteisöt poikkeaisivat olennaisella tavalla tasavaltojen muista
+maaseutuyhteisöistä. Aiempien tapaustutkimusten puuttuminen pakottaa
+valitsemaan tutkimuskohteet melko sattumanvaraisesti. Jokainen
+kieliyhteisö on mikrotason muuttujiltaan ainutlaatuinen, joten on
+tapauskohtaisesti kysyttävä, kuinka samanlaisia tutkimuskohteet
+oikeasti ovat (Grenoble & Whaley 1998: 28). Mielestäni karjalan ja
+komin vertailulle on erittäin hyvät edellytykset, jotka työssäni pyrin
+tuomaan esiin.
+
+Luonnollisesti pro gradua laajempi tutkimus vaatisi vastaavaa
+laadullista aineistoa eri puolilta kielten puhuma-alueita. Erityisesti
+näin on tässä tilanteessa, jossa kielten taksonominen jaottelukaan ei
+ole yksiselitteinen. Tutkimusaineistoni koostuu pääosin karjalan
+livvin murretta ja komisyrjäänin Ylä-Sysolan murretta puhuvien
+informanttien haastatteluista. Livvin suhde muihin Karjalan
+kielimuotoihin ei ole yksiselitteinen. Karjalan kielellä tarkoitetaan
+varsinaiskarjalaa ja livviä. Varsinaiskarjalaa edustavat vienankarjala
+ja etelä-karjala. Varsinaiskarjala ja livvi eroavat toisistaan monin
+tavoin. Tämän lisäksi komin Ylä-Sysolan murre jakaa monia piirteitä
+usein omana kielenään pidetyn komipermjakin kanssa. Sitä on kuvattu
+linkiksi näiden kielimuotojen välillä, joka kuitenkin kuuluisi yhteen
+komisyrjäänin etelämurteiden kanssa (Žilina 1975: 3–4). En ota asiaan
+itse kantaa, vaikka sinällään onkin merkittävää, että monine
+komipermjakin kanssa jaettuine piirteineen Ylä-Sysolan murteessa on
+komisyrjäänin kirjakielelle vieraita piirteitä. Puhuessani karjalasta
+ja komista tarkoitan ensisijaisesti Karjalan ja Komin tasavalloissa
+puhuttuja kieliä ottamatta kantaa niiden suhteisiin eri murteisiin tai
+lähisukukieliin.
+
+## Tutkimuksen konteksti
+
+Karjala ja komi ovat suomalais-ugrilaisia kieliä, jotka edustavat
+tämän kieliperheen eri haaroja. Karjala on itämerensuomalainen kieli
+ja komi permiläinen. Karjalan lähisukukieliä puhutaan pääasiassa
+karjalan puhuma-alueesta itään ja länteen, siinä missä komin
+sukukieliä puhutaan tasavallan eteläpuolella. Keskenään kielet eivät
+ole lainkaan ymmärrettäviä, eikä niiden sukulaisuus ole tämän
+tutkimuksen kannalta oleellista. Kielisukulaisuutta enemmän niitä
+yhdistävät kansojen elinkeinojen samankaltaisuus, alueiden
+maantieteellisen ympäristön samankaltaisuus, viimeisen tuhannen vuoden
+aikainen historiallinen kehitys sekä nykyinen asema Venäjän
+vähemmistökielinä. Esitän aluksi yhteenvedon Karjalasta ja Komista,
+mikä auttaa hahmottamaan käsiteltävien kielten ja alueiden kokoluokkaa
+ja puhumaympäristöä.
+
+Taulukko 1. Karjalan ja Komin perustiedot
+
+Yhtäläisyyksistään huolimatta Karjala ja Komi eroavat hyvin paljon
+toisistaan sekä alueeltaan että etniseltä koostumukseltaan. Komi on
+yli puolet suurempi kuin Karjala. Tämä heijastuu Komin suuremmassa
+väestömäärässä, ja komeja onkin lähes kuusi kertaa enemmän kuin
+karjalaisia. Tilastojen käyttöönliittyy silti monenlaisia ongelmia. On
+täysin mahdoton tietää, millaisilla perusteilla ja ohjeilla tietyillä
+alueilla toimineet väestönlaskijat ovat työskennelleet. Venäjän
+väestönlaskennat eivät salli saman henkilön kuuluvan useampaan
+etniseen ryhmään tai ilmoittavan itselleen useampaa äidinkieltä, mikä
+mallina sopii erittäin huonosti Karjalan ja Komin kaltaisiin
+monietnisiin alueisiin. Joka tapauksessa uhanalaisia kieliä
+tutkittaessa on jo kauan sitten havaittu, että kielen kokoa
+keskeisempi muuttuja niiden tilaa arvioitaessa on kielen käyttö sekä
+siirtyminen lapsille (Fishman 1991). Tässä mielessä kielten erilainen
+suuruusluokka ei ole este niiden vertailulle. Riho Grünthal on
+todennut vepsän ja mordvan kielten uhanalaisuutta tarkastellessaan,
+että kielten huomattavan suuresta kokoerosta huolimatta niiden
+uhanalaistumiseen johtaneet syyt ovat hyvin samanlaisia (Grünthal
+2009: 277–278). Molempia kieliä voi myös pitää siinä mielessä suurina,
+että ne eivät edusta maailman kielille tyypillisimpiä tuhansien
+puhujien kieliä (Krauss 1998: 105). Keskisuurina vaarantuneita tai
+uhanalaisia vähemmistökielinä ne ovat samassa mittakaavassa.
+
+Alla oleva kartta näyttää Karjalan ja Komin tasavaltojen
+maantieteellisen sijainnin toisiinsa. Käsittelen siihen merkityt
+väestötiedot tarkemmin seuraavalla sivulla.
+
+Kartta 1. Karjalan ja Komin tasavallat kooltaan ja sijainniltaan
+oikeassa mittakaavassa. Karjalaisten ja Komien prosentuaalinen osuus
+väestöstä on merkitty tummalla värillä. (Huom! Kielten puhuma-alueet
+ovat karttaan merkittyjä alueita laajemmat.)
+
+Molempien kielten slaavilaiskontaktit ovat ilmeisesti olleet käynnissä
+jo 1100-luvulla, vaikka karjalalla itämerensuomalaisena kielenä on
+tätä pidempi historia slaavilaiskontakteissaan. Toisaalta venäläisten
+ja komien kontaktista tuolloin on kronikkatietoja, joten ei ole selvää
+milloin kontakti oikeasti muuttui intensiivisemmäksi. Karjalaan
+suuntautui kuitenkin viimeistään tuolloin esivenäläistä
+muuttoliikettä, minkä lisäksi Novgorod alkoi kerätä Komin alueilta
+veroja, joten venäläiskontaktin aikasyvyydessä on paljon
+samaa. (Sarhimaa 1995: 204; Leinonen 2006: 235; Bondarenko 2000:
+34). On olemassa melko varhaisia kuvauksia karjalaisten ja komien
+perinteisistä uskonnoista ja tavoista (esimerkiksi Holmberg 1914
+komeista), mutta jo näihin sisältyy tieto venäläislähtöisten
+perinteiden varhaisesta omaksumisesta. Nykyään ortodoksisuus on
+molempien kansojen pääasiassa harjoittama uskonto. Erityisesti
+paikallistasolla Karjalassa on havaittavissa kulttuurillista ja
+kielellistä yhdentymistä itämerensuomalaisten ja slaavien kesken
+(Sarhimaa 1995: 193). Myös Komissa on hyvin yleistä, että esimerkiksi
+perinteiset laulut ja tarinat sisältävät runsaasti venäläisiä
+elementtejä (Filippova 2003). Tästä kontaktista huolimatta karjala ja
+komi ovat olleet aiemmin enemmistökieliä näillä alueilla. Nykyäänkin
+iäkkäimmät informantit ovat usein kasvaneet kokonaan karjalan- tai
+kominkielisessä ympäristössä, mikä osaltaan vahvistaa kuvaa hyvin
+äskettäin kehittyneestä laajasta kaksikielisyydestä. Karjalan, komin
+ja venäjän puhuma-alueet ovat olleet kauan melko
+stabiileja. Esimerkiksi Arkangelin piirin ja Komin tasavallan rajalla
+näyttää olleen pitkäaikainen kieliraja, joka on ollut samalla kaupan
+ja liikkumisen rajapinta. Marja Leinonen on tarkastellut varhaisten
+matkamiesten kuvauksia 1600-luvulta lähtien, ja tuolloiset
+maantieteelliset kielirajat näyttävät vastaavan nykyisiä (Leinonen
+2006: 236–237). Karjalaisia siirtyi 1600-luvulla suurissa määrin
+Tveriin, mistä muodostuivat nykyiset tverinkarjalaiset alueet. Tämä
+toisaalta pienensi rajusti väestömäärää näillä alueilla. (Laasonen
+2005). Komin tasavallassa tietyt alueet ovat venäläistyneet varhain,
+mutta toisaalta on tapahtunut myös venäläisten assimilaatiota
+komivaltaisimmilla seuduilla (Bondarenko et al. 2000: 48). Nyt
+tutkimani alueet vaikuttavat kuitenkin edustavan vanhaa komien ja
+karjalaisten asutusta. Komia ja karjalaa yhdistää myös vanha
+paikallishallinnon perinne, zemstvo. Tämä luotiin 1800-luvun
+puolenvälin jälkeen, ja mahdollisti esimerkiksi komikylien koulu- ja
+postijärjestelmien kehittymisen (Bondarenko 2000: 79–80). Tämä
+Pohjois-Venäjälle yhteinen erotti niitä eteläisemmistä seuduista,
+joilla maaorjuus oli ollut aiemmin yleistä. Nyt tutkituilla alueilla
+on siis tietyssä mielessä vanha itsenäisen toimimisen perinne.
+
+1900-luvun aikana molemmat alueet ovat muuttuneet erittäin
+monikansallisiksi. Anneli Sarhimaan mukaan esimerkiksi karjalaisessa
+Paatenen kylässä asui 90-luvun alussa yli 60 eri kansallisuutta
+[@sarhimaa1999a]. Kartta 1 näyttää karjalaisten ja komien jakautumisen
+vuoden 2010 väestönlaskennan mukaan (Lähde: Karjalan ja Komin
+tasavaltojen tilastokeskukset). Karjalaisten määrä on suuri alueilla
+pohjoisessa Kostamuksen kaupungin pohjoispuolella ja Aunuksen
+kaupungin länsipuolella. Nyt tutkimani Tuuksen kylä sijaitsee
+jälkimmäisellä alueella. Näiden lisäksi Prääsän piirissä karjalaisten
+osuus on verrattain korkea (Klementyev et al. 2012: 3). Karjalaisia
+asuu yleisesti ottaen tasaisesti sekä kaupungeissa että
+maaseudulla. Poikkeus on Kostamuksen kaupunkipiiri, jonka maaseudulla
+karjalaisia on 53,7 % väestöstä.
+
+Komien maantieteellinen jakautuminen heijastelee Karjalan mallia,
+jossa keskittymät ovat sekä etelässä että pohjoisessa. Komit ovat
+kuitenkin säilyneet enemmistönä karjalaa laajemmalla alueella. Nämä
+piirit ovat Komin tasavallan eteläosassa, ja niiden välillä on
+maantieteellinen yhteys. Pohjoinen Ižman alue on kaikkein
+komivaltaisin. Muilla pohjoisilla alueilla komien osuus väestöstä on
+pieni, mikä selittyy tämän alueen jo harvalla asutuksella sekä suurien
+öljyvarojen tuomalla uudella väestöllä. Olen haastatellut jonkin
+verran pohjoisen komeja Ižman ja Intan piireistä (n=3 ja n=1), ja
+heiltä saatujen tietojen perusteella kielen tila näyttää olevan
+monissa kylissä vakaa. Vastaavat tilastot esimerkiksi Walesista
+osoittavat, että kymrin kieltä voi pitää uhanalaisena myös niillä
+alueilla, joilla kielen puhujia on kaikkein eniten. Kuitenkaan
+kaikkein vähiten iirinkielisiltäkään alueilta kieli ei ollut kadonnut
+vielä 1980 alussa tarkasteltaessa – prosenttimääristä ei voi päätellä
+kielen tilaa [ambroseEtAl1981a, 69–70]. Tämä pitää
+mahdollisesti paikkansa karjalan ja komin kohdalla. Ajattelisin
+kuitenkin, että tämä olisi syytä ottaa huomioon esimerkiksi näiden
+kielten murteita kuvattaessa, sillä nyt tiettyjen murteiden
+puhujamäärä voi olla numeerisesti hyvin pieni. Näistä voi
+tulevaisuudessa olla hyvin vaikea kerätä uutta materiaalia, saati
+häviävää muistitietoa kuten paikannimistöä.
+
+Edellisen sivun karttojen kannalta on huomionarvoista, että tänä
+päivänä kaikkein komilaisimmat alueet Ižma ja Vyčegda olivat vielä
+1920-luvulla erittäin huonojen kulkuyhteyksien päässä. (Gde ty
+zhivjosh -levy, mitenköhän tähän viittaisi?). Yksi tarkasteltava
+muuttuja voisi täten olla, olivatko komilaiset tai karjalaiset
+yhteisöt suhteessa toisiaan eristyneempiä aiemmin, missä vaiheessa
+tämä on muuttunut ja millä nopeudella.
+
+Tilasto 1. Karjalaisten ja komien kokonaismäärän kehitystä
+tasavaltojen sisällä aikavälillä 1926–2010. Lähde: Venäjän
+väestönlaskennat.
+
+Tilasto 1 osoittaa karjalaisten määrän pienentyneen jo viimeiset 80
+vuotta. Ratkaisevien demografisten muutosten on täytynyt tapahtua
+30–50-luvuilla, sillä muutos heidän määrässään on erittäin
+jyrkkä. Historiallisesti tähän ajankohtaan osuva tapahtuma on toinen
+maailmansota. Aiemman tutkimuksen perusteella Karjalassa on
+paikallisyhteisöjä, joissa kielenvaihto on ollut hyvin nopea jo
+1930-luvulla syntyneiden perheissä (Partanen 2013: 52). Nopeutuva
+karjalaisten määrän pieneneminen on havaittavissa Neuvostoliiton
+hajoamisen jälkeen, mutta se on ajallisesti yhtenevä tasavallan muun
+väestön vähenemisen kanssa.
+
+Karjalaisista poiketen komien määrä on kasvanut aina Neuvostoliiton
+hajoamiseen asti. Ensimmäinen hidastuminen heidän määränsä kasvussa on
+40-luvulla ja siten samanaikainen karjalaisten kehityksen
+kanssa. Komin puhujamäärässä tapahtunutta kasvua ei ole syytä tulkita
+positiiviseksi merkiksi, sillä Seppo Lallukka on laskelmillaan
+osoittanut, että Venäjän suomalais-ugrilainen väestö ei ylipäätään ole
+1900-luvulla kasvanut tavalla, joka olisi ollut odotettavissa
+tällaiselle suuren syntyvyyden maaseutuväestölle (Lallukka
+2008). Hänen mukaansa tälle kadolle ei voi olla muuta selitystä kuin
+assimilaatio venäläisiin (Lallukka 2008: 27). Suomenruotsalaisia
+tutkinut Marika Tandefelt huomauttaa, että keskeisenä assimilaatiota
+vahvistavana tekijänä on usein pidetty juuri kaupungistumista. Hän
+mainitsee myös, että kaupungistumisen ja assimilaation suoraa suhdetta
+on myös epäilty ja kritisoitu. (Tandefelt 1994: 247). Joshua Fishman
+on todennut urbanisaation vaikuttavan hyvin erilaisiin vähemmistöihin
+hyvin erilaisissa ympäristöissä (Fishman 1991: 58). Näin ollen ei voi
+pitää itsestään selvänä, millaisia kielenvaihdon prosesseja tarkalleen
+kaupungeissa on käynnissä. Tämä olisi jatkotutkimukselle hyvin tärkeä
+kysymys, sillä vuoden 2010 väestönlaskentojen mukaan karjalaisista 76
+% asui kaupungissa (Karjalan tilastokeskus), ja komeistakin lähes
+puolet (Tsypanov 2009: 208). Oma vielä julkaisematon
+tutkimusaineistoni Komin pääkaupunki Syktyvkarista viittaa
+kielenvaihdon olevan lähes tässä ympäristössä lähes välitön
+ensimmäisen kaupunkiin muuttaneen sukupolven jälkeen. Omat
+tutkimukseni ovat keskittyneet erityisesti akateemiseen väestöön, mikä
+voi johtaa vakavasti harhaan, sillä minulla on myös satunnaisia
+havaintoja alueista ja perheistä, joissa kielenvaihto ei ole edennyt
+näin nopeasti.
+
+Tietoa komien ja karjalaisten väestömääristä voi verrata tilastoon,
+jossa kuvataan tasavaltojen nimikkokansallisuuksien prosentuaalisten
+osuuksien kehittymistä suhteessa kokonaisväestöön.
+
+Tilasto 2. Karjalaisen ja komien prosentuaaliset osuudet väestöstä
+tasavalloissa
+
+Tästä nähdään, että vielä 1900-luvun alkupuolella komit olivat
+vahvassa enemmistöasemassa tasavaltansa alueella, mutta karjalaiset
+eivät olleet. Vuonna 1926 karjalaisia oli vain 37 % Karjalan
+tasavallan väestöstä. Suomesta siirtyi vuoden 1918 jälkeen erittäin
+paljon väestöä Karjalaan. Tämä on nostanut heidän osuutensa alueen
+itämerensuomalaisesta väestöstä melko suureksi. Tässä tulee esiin jo
+aiemmin esittämäni kysymys tarkastelun rajaamisesta yksittäisiin
+kieliin. En käsittele aihetta tässä tutkimuksessa tarkemmin, mutta on
+täysin selvää, että todella huomattavia määriä karjalaistaustaisia on
+muuttanut Suomeen myös viime vuosikymmeninä. Anneli Sarhimaan mukaan
+karjalaisia on muuttanut Suomeen ennen ja jälkeen toista maailmansotaa
+kymmeniä tuhansia, ja tälläkin hetkellä Suomessa asuisi noin 5000
+karjalan puhujaa ja jopa 20000, jotka ymmärtävät kieltä (Sarhimaa
+2011: 1). Tarkastelen luvussa X erilaisten perheiden kielellisiä
+verkostoja. Näissä tapauksissa ei ole Suomeen muuttaneita nuoria
+sukulaisia, mikä on nähdäkseni jopa melko poikkeuksellista.
+
+Suomi miehitti Karjalaa jatkosodan aikana vuosina
+1941–1944. Iäkkäimmät informantit ovat usein oppineet suomea
+koulussa. Miehityksen tavoite oli alueen suomalaistaminen (Hyytiä
+2008: 5). Jo aiemmin Suomen ja Karjalan kesken oli suuria
+väestönliikkeitä, sillä 1920-luvun alussa noin 10 000 karjalaista
+pakeni lyhyeksi aikaa Suomeen (Kangaspuro 2000: 132). Tällöin myös
+suomalaisia kommunisteja siirtyi Karjalaan. Tämä huipentui 1930-luvun
+alussa, jolloin Karjalaan värvättiin tuhansia
+amerikansuomalaisia. Eräiden arvioiden mukaan vuonna 1934 Karjalassa
+asui noin 15 000 suomalaista (Kangaspuro 2000: 247). Myös Komiin on
+tullut runsaasti vierasta väestöä, erityisesti tänne tuotiin vankeja,
+joiden määrän arvioidaan olleen 30-luvun lopulla jo yli sata tuhatta
+(Bondarenko et al. 2000: 195).
+
+Itämerensuomalaisten prosentuaalinen osuus on näin ollen ollut
+huomattavan suuri. Vuosisadan alussa Karjalassa käytettiin suomea
+kirjakielenä (Kangaspuro 2000). Neuvostoliiton varhaiseen
+kielipolitiikkaan kuului uusien kirjakielten kehittäminen, mutta
+Karjalassa suomen rooli esti karjalan mahdollisuutta vakiintua tällä
+tavoin. Karjalalle luotiin kyrillinen kirjakieli, mutta se oli
+käytössä vain vuosina 1937–1940. Tämän jälkeen siirryttiin takaisin
+suomen käyttöön. (Anttikoski 2003: 31–34). Suomea käytettiin kouluissa
+aina vuoteen 1956 asti, jolloin Karjalais-suomalainen sosialistinen
+neuvostotasavalta lakkautettiin. Tämän jälkeenkin suomea opetettiin
+yksittäisissä kouluissa ja erityisesti vienankarjalassa. Vasta
+1980-luvun loppupuolella pystyttiin jatkamaan karjalan kirjakielen
+kehitystä, minkä tuloksena oli kahden erillisen kirjakielen synty
+(Zaikov 1993: 40). Voi kuitenkin sanoa, etteivät nämä kirjakielet ole
+niin vakiintuneita kuin esimerkiksi komin kirjakieli. Ei ole
+perusteetonta väittää, että tähän on johtanut erityisesti suomen
+käyttö kirjakielenä. Muissa olosuhteissa olisi voinut olettaa
+karjalalle kehitetyn kirjakieltä muiden suurempien Neuvostoliiton
+kielten tapaan.
+
+Karjalasta poiketen komin kirjakieli alkoi vakiintua jo 1800-luvun
+lopulla ja 1900-luvun alun kirjailijakokoukset johtivat laajaan
+sanaston kehitykseen (Ludykova 2007). Joshua Fishman on pitänyt
+tällaisia kongresseja alitutkittuna sosiolingvistisenä ilmiönä, sillä
+niistä voi saada tietoa kielensuunnittelun alkuvaiheista, joka on
+tärkeä myöhemmän kehityksen kannalta (Fishman 1993: 7). Karjalasta
+poiketen komi tuli jo varhain kouluihin oppiaineeksi ja
+opetuskieleksi, mikä oli tyypillistä Neuvostoliiton suuremmille
+kielille [@grenoble2003a, 46]. Komin ortografiaa on vaihdettu
+1900-luvun mittaan monta kertaa, mutta mielestäni tämän ei tarvitse
+nähdä katkaisseen koko komin kirjallista traditiota. Pikemminkin tämän
+voi kyllä ajatella katkenneen 1970-luvun puolivälissä, jolloin komin
+opetus koulussa lopetettiin. Vielä 1960-luvun lopulla puolet
+tasavallan kouluista oli toiminut komiksi. Samalla kominkielisten
+lehtien määrä pudotettiin kolmannekseen. (Žerebtsov 2006). Tämän
+vaikutukset ovat varmasti olleet erittäin haitallisia, mutta
+verrattaessa Karjalan tilanteeseen on komia opetettu erittäin paljon
+kauemmin kouluissa.
+
+Neuvostoliiton koulutusohjelmaan koului erottamattomasti
+lukutaidottomuuden kitkeminen. Tähän tavoitteeseen myös päästiin.
+[@grenoble2003a, 46]. Esimerkiksi Karjalassa lukutaito nousi 1900-luvun
+alun 10 %:sta 1930-luvun lopussa 80 %:iin (Klementjev 2008:
+48). Kysymykseksi nousee tietysti, mihin kieleen tämä kirjallistuminen
+on tapahtunut. Vastauksena on yhtäältä venäjä, sillä kaikkialla on
+alettu opettaa venäjää viimeistään kolmannella luokalla [@grenoble2003a, 46]. 
+Silti erityisesti Karjalaan verrattuna Komissa omakielinen
+luku- ja kirjoitustaito vaikuttaa olleen yleisempää. Karjalasta
+tiedetään, että kouluopetus venäläistettiin välittömästi 1950-luvulla
+[@grenoble2003a, 57]. Tässä mielessä komin kirjallistumisella on ollut
+karjalaa pidempi historiallinen tausta, suurempi poliittinen ja
+hallinnollinen tuki sekä joitain vuosikymmeniä kauemmin jatkunut
+konkreettinen kouluopetus.
+
+Komissa vallitsi ilmeisesti 1940-luvulla nälänhätä, mutta tämän
+mittakaavasta tai tarkoista tapahtumista ei ole paljoakaan tietoa eri
+suomalais-ugrilaisilla alueilla. Paikallinen historiankirjoitus tuntuu
+usein korostavan sodan voittoon tarvittuja saavutuksia, unohtaen
+inhimillisen kärsimyksen ja paikallisen puutteen. Nälänhätä liittyy
+ehdottomasti vielä sodan jälkeiseenkin aikaan, sillä saksalaiset
+joukot olivat tuhonneet paljon maatalousvälineistöä, mutta sodan
+aikana tehtaat oli valjastettu sotateollisuuden tarpeisiin. Niiden
+palauttaminen esimerkiksi normaalin agraarilaitteiston varaosien
+tuottamiseen oli hidasta. (Ganson 2009: 10–11). Tämä heijastui
+väistämättä Komiinkin, mikä ei tietenkään itse ollut
+sota-aluetta. Otan aiheen esille sen vuoksi, että nämä nälkävuodet
+mainitaan usein haastatteluissa. Tähän liittyy monien informanttien
+henkilöhistorioiden kohdalla myös kuvaus melko sekavista
+kouluoloista. Kysyttäessä venäjän oppimisesta koulussa saattaa vastaus
+usein olla, ettei koulussam itään opittu, kun nähtiin nälkää ja pula
+oli kaikesta. Vielä 1950-luvulla syntyneet informantit kuvaavat
+kouluissa tehtyjä erikoisjärjestelyjä, jotta kaikkein yksikielisimmät
+lapset saivat oppimiseensa tarvittavaa kominkielistä tukea. Karjalassa
+vastaavaan ei törmää, vaikka olenkin kuullut yksittäisiä
+inkerinsuomalaisten narratiiveja hieman vastaavista tilanteista. Ehkä
+Komin kaukaisuus ja suuret välimatkat ovat osin vaikuttaneet tähän,
+ehkä jotkin alueet ovat olleet kauakana valtiovallan keskuksista.
